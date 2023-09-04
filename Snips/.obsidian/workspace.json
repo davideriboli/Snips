@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "d80aabe65a1d892b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae1d5eb8d03c6ad3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24f4b051034d9dc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/WP-Local FTP-Trick.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8933b8eb5398803",
+    "type": "split",
+    "children": [
+      {
+        "id": "49797a8f002ac263",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcdc3818c0efe895",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "025198fa531e331f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 229.5
+  },
+  "right": {
+    "id": "02651ed25eba39d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "fab7fa9b83985967",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b99fb8f482aa458",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Web/WP-Local FTP-Trick.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e19e196d70907553",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Web/WP-Local FTP-Trick.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e0993d249d9cc6b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "000c6cd8c8891869",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Web/WP-Local FTP-Trick.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:Apri riquadro comandi": false
+    }
+  },
+  "active": "24f4b051034d9dc5",
+  "lastOpenFiles": [
+    "Web/Video-In-MkDocs.md",
+    "Web/Material-MkDocs-in-Arch-Linux.md",
+    "Web/BrowserSync-Server-4-P5.md",
+    "Noise/Korg Kontrol Studio in Reaper.md",
+    "Media/Video in Kiosk Mode.md",
+    "Media/Image Cutup via Imagemagick e Cygwin.md",
+    "Media/Gource.md",
+    "Media/FFmpeg-Cookbook.md",
+    "Linux/Tilix-MakeUp.md",
+    "Linux/Chown e chmod htdocs in Xampp.md",
+    "Linux/Build an RPM Pkg in Arch.md",
+    "Linux/Linux-Arch-Survival-Kit.md",
+    "Senza nome.md",
+    "Noise",
+    "Nuova cartella",
+    "Web/WP-Local FTP-Trick.md",
+    "Web",
+    "Media",
+    "Linux",
+    "Tpl"
+  ]
+}
