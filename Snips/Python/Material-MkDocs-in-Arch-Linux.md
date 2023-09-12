@@ -1,5 +1,12 @@
 ---
-tags: [linux/arch, linux/endeavour, mkdocs, mkdocs/material, site generator]
+tags:
+  - linux/arch
+  - linux/endeavour
+  - mkdocs
+  - mkdocs/material
+  - site
+  - generator
+  - python
 ---
 Installing [MkDocs](https://www.mkdocs.org/) or [Material MkDocs](https://squidfunk.github.io/mkdocs-material/) used to take no more than thirty seconds, but since it has become mandatory in several linux distros to run Python in virtual environments, things have gotten a little more complicated. These are the commands I use, under [Arch](https://archlinux.org/) or [EndeavourOS](https://endeavouros.com/).
 
