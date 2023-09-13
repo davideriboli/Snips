@@ -1,5 +1,5 @@
 ---
-tags: [dirty tricks, ftp, worddpress]
+tags: [dirty tricks, ftp, wordpress]
 ---
 Add this in _wp-config.php_.
 

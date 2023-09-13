@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ae1d5eb8d03c6ad3",
+        "id": "7fd9aa88929166dc",
         "type": "tabs",
         "children": [
           {
-            "id": "24f4b051034d9dc5",
+            "id": "868c3d11b0293909",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Installazione di diverse versioni di Python in Windows e gestione dei venv.md",
-                "mode": "source",
+                "file": "Python/Material-MkDocs-in-Windows.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "02651ed25eba39d4",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Installazione di diverse versioni di Python in Windows e gestione dei venv.md",
+                "file": "Python/Material-MkDocs-in-Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Installazione di diverse versioni di Python in Windows e gestione dei venv.md",
+                "file": "Python/Material-MkDocs-in-Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Installazione di diverse versioni di Python in Windows e gestione dei venv.md"
+                "file": "Python/Material-MkDocs-in-Windows.md"
               }
             }
           },
@@ -145,9 +144,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fcdc3818c0efe895",
+  "active": "868c3d11b0293909",
   "lastOpenFiles": [
     "Python/Material-MkDocs-in-Arch-Linux.md",
+    "Python/Material-MkDocs-in-Windows.md",
     "Python/Installazione di diverse versioni di Python in Windows e gestione dei venv.md",
     "Web/WP-Local FTP-Trick.md",
     "Python",
