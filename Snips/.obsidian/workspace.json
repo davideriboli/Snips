@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Material-MkDocs-in-Windows.md",
+                "file": "Media/YT-DLP.md",
                 "mode": "preview",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Material-MkDocs-in-Windows.md",
+                "file": "Media/YT-DLP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Material-MkDocs-in-Windows.md",
+                "file": "Media/YT-DLP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Material-MkDocs-in-Windows.md"
+                "file": "Media/YT-DLP.md"
               }
             }
           },
@@ -141,23 +141,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "command-palette:Open command palette": false
+      "command-palette:Apri riquadro comandi": false
     }
   },
   "active": "868c3d11b0293909",
   "lastOpenFiles": [
-    "Python/Material-MkDocs-in-Arch-Linux.md",
+    "Media/Video in Kiosk Mode.md",
+    "Media/Gource.md",
+    "Media/YT-DLP.md",
+    "Media/FFmpeg-Cookbook.md",
     "Python/Material-MkDocs-in-Windows.md",
+    "Python/Material-MkDocs-in-Arch-Linux.md",
     "Python/Installazione di diverse versioni di Python in Windows e gestione dei venv.md",
     "Web/WP-Local FTP-Trick.md",
     "Python",
     "Web/Video-In-MkDocs.md",
     "Web/BrowserSync-Server-4-P5.md",
     "Noise/Korg Kontrol Studio in Reaper.md",
-    "Media/Video in Kiosk Mode.md",
     "Media/Image Cutup via Imagemagick e Cygwin.md",
-    "Media/Gource.md",
-    "Media/FFmpeg-Cookbook.md",
     "Linux/Tilix-MakeUp.md",
     "Linux/Chown e chmod htdocs in Xampp.md",
     "Linux/Build an RPM Pkg in Arch.md",
