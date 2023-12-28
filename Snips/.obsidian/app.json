@@ -8,5 +8,6 @@
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "/",
-  "showFrontmatter": false
+  "showFrontmatter": false,
+  "livePreview": false
 }

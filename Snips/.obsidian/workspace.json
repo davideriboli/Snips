@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Media/YT-DLP.md",
-                "mode": "preview",
-                "source": false
+                "file": "Linux/Webp Conversion.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media/YT-DLP.md",
+                "file": "Linux/Webp Conversion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Media/YT-DLP.md",
+                "file": "Linux/Webp Conversion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Media/YT-DLP.md"
+                "file": "Linux/Webp Conversion.md"
               }
             }
           },
@@ -127,7 +127,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -141,14 +143,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "command-palette:Apri riquadro comandi": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "868c3d11b0293909",
   "lastOpenFiles": [
+    "Linux/Tilix-MakeUp.md",
+    "Linux/Webp Conversion.md",
+    "Media/YT-DLP.md",
     "Media/Video in Kiosk Mode.md",
     "Media/Gource.md",
-    "Media/YT-DLP.md",
     "Media/FFmpeg-Cookbook.md",
     "Python/Material-MkDocs-in-Windows.md",
     "Python/Material-MkDocs-in-Arch-Linux.md",
@@ -159,7 +163,6 @@
     "Web/BrowserSync-Server-4-P5.md",
     "Noise/Korg Kontrol Studio in Reaper.md",
     "Media/Image Cutup via Imagemagick e Cygwin.md",
-    "Linux/Tilix-MakeUp.md",
     "Linux/Chown e chmod htdocs in Xampp.md",
     "Linux/Build an RPM Pkg in Arch.md",
     "Linux/Linux-Arch-Survival-Kit.md",
