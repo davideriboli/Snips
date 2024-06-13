@@ -4,5 +4,6 @@
   "strictLineBreaks": true,
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "showInlineTitle": true
 }
