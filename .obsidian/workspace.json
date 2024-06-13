@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Varia/QUAD9 params.md",
-                "mode": "preview",
+                "file": "Linux/Processing in Sublime sotto Linux.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -104,11 +104,11 @@
   },
   "active": "868c3d11b0293909",
   "lastOpenFiles": [
-    "Linux/Ubuntu Survival Kit.md",
     "Varia/QUAD9 params.md",
+    "Linux/Processing in Sublime sotto Linux.md",
+    "Linux/Ubuntu Survival Kit.md",
     "Tools/HK Memo.md",
     "Tools/Post Template.md",
-    "Linux/Untitled.md",
     "Linux/Arch Survival Kit.md",
     "Linux/Webp Conversion.md",
     "Varia/Generare l'elenco delle estensioni installate in VSCode.md",
