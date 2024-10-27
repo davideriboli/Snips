@@ -17,7 +17,7 @@ pacman -S softwaretoinstall
 #### Pacman Uninstall (trash even non requested dependencies)
 
 ```shell
-pacman -Rsun softwaretouninstall
+pacman -Rs softwaretouninstall
 ```  
 
 #### Pacman System Update
@@ -114,7 +114,7 @@ yay -S font-manager adobe-source-serif-fonts adobe-source-sans-fonts otf-bodoni 
 #### Net
 
 ```shell
-yay -S pcloud-drive filezilla papirus-filezilla-theme freedownloadmanager zapzap signal-desktop
+yay -S pcloud-drive filezilla papirus-filezilla-theme freedownloadmanager zapzap signal-desktop surfshark-client
 ```
 
 ---

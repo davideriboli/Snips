@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Post Template.md",
-                "mode": "preview",
+                "file": "Linux/Arch Survival Kit.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Post Template"
+              "title": "Arch Survival Kit"
             }
           }
         ]
@@ -112,8 +112,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fcdc3818c0efe895",
+  "active": "868c3d11b0293909",
   "lastOpenFiles": [
+    "Tools/Post Template.md",
     "Data/RadioTray.json",
     "Data/GFeeds.opml",
     "Data",
@@ -123,7 +124,6 @@
     "Linux/Processing in Sublime sotto Linux.md",
     "Varia/QUAD9 params.md",
     "Linux/Ubuntu Survival Kit.md",
-    "Tools/Post Template.md",
     "Varia/Generare l'elenco delle estensioni installate in VSCode.md",
     "Senza nome.md",
     "ChatGPT/Chat-2024_02_19-09_56_57.md",
@@ -148,7 +148,6 @@
     "Nuova cartella",
     "Web",
     "Media",
-    "Linux",
-    "Tpl"
+    "Linux"
   ]
 }
