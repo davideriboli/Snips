@@ -1,0 +1,198 @@
+[
+	{
+		"group" : "Ambient",
+		"stations" : 
+		[
+			{
+				"name" : "Drone Zone",
+				"url" : "http://dronezone.radio.mynoise.net"
+			},
+			{
+				"name" : "Ocean Waves",
+				"url" : "http://oceanwaves.radio.mynoise.net"
+			},
+			{
+				"name" : "Pure Nature",
+				"url" : "hhttp://purenature.radio.mynoise.net"
+			},
+			{
+				"name" : "Rainy Day",
+				"url" : "http://rainyday.radio.mynoise.net"
+			},
+			{
+				"name" : "Siren Songs",
+				"url" : "http://sirensongs.radio.mynoise.net"
+			},
+			{
+				"name" : "Space Odissey",
+				"url" : "http://spaceodissey.radio.mynoise.net"
+			},
+			{
+				"name" : "Zen Garden",
+				"url" : "http://zengarden.radio.mynoise.net"
+			}
+		]
+	},
+	{
+		"group" : "Soma",
+		"stations" : 
+		[
+			{
+				"name" : "Bossa Beyond",
+				"url" : "https://somafm.com/bossa256.pls"
+			},
+			{
+				"name" : "DefCon",
+				"url" : "https://somafm.com/defcon256.pls"
+			},
+			{
+				"name" : "Groove Salad",
+				"url" : "http://ice3.somafm.com/groovesalad-128-mp3"
+			},
+			{
+				"name" : "Illinois Street Lounge",
+				"url" : "http://somafm.com/illstreet.pls"
+			},
+			{
+				"name" : "Left Coast 70s",
+				"url" : "https://somafm.com/seventies.pls"
+			},
+			{
+				"name" : "Mission Control",
+				"url" : "https://somafm.com/missioncontrol.pls"
+			},
+			{
+				"name" : "Police Scanner",
+				"url" : "https://somafm.com/scanner.pls"
+			},
+			{
+				"name" : "Secret Agent",
+				"url" : "http://somafm.com/secretagent.pls"
+			},
+			{
+				"name" : "SF 10-33",
+				"url" : "https://somafm.com/sf1033.pls"
+			},
+			{
+				"name" : "The In-Sound",
+				"url" : "https://somafm.com/insound256.pls"
+			},
+			{
+				"name" : "Tiki Time",
+				"url" : "https://somafm.com/tikitime256.pls"
+			}
+		]
+	},
+	{
+		"group" : "Jazz",
+		"stations" : 
+		[
+			{
+				"name" : "RMC Jazz",
+				"url" : "https://icy.unitedradio.it/rmcweb019"
+			},
+			{
+				"name" : "RMC Smooth Jazz",
+				"url" : "https://stream.rcs.revma.com/4t617kep81uvv"
+			},
+			{
+				"name" : "Smooth Jazz",
+				"url" : "http://smoothjazz.com/streams/smoothjazz_128.pls"
+			},
+			{
+				"name" : "Sonic Universe",
+				"url" : "http://somafm.com/sonicuniverse.pls"
+			}
+		]
+	},
+	{
+		"group" : "RMC",
+		"stations" : 
+		[
+			{
+				"name" : "RMC",
+				"url" : "http://icecast.unitedradio.it/RMC.mp3"
+			},
+			{
+				"name" : "RMC2",
+				"url" : "https://stream.rcs.revma.com/yuwet426r7uvv"
+			},
+			{
+				"name" : "BlueMoon",
+				"url" : "https://icy.unitedradio.it/rmcweb017"
+			},
+			{
+				"name" : "Cool",
+				"url" : "https://icy.unitedradio.it/rmcweb004"
+			},
+			{
+				"name" : "Via Montenapoleone",
+				"url" : "https://stream.rcs.revma.com/x3n887pp81uvv"
+			},
+			{
+				"name" : "Nights Story",
+				"url" : "https://icy.unitedradio.it/rmcweb012"
+			},
+			{
+				"name" : "Tiffany",
+				"url" : "https://stream.rcs.revma.com/ksvn8tpp81uvv"
+			},
+			{
+				"name" : "Unforgettable",
+				"url" : "https://stream.rcs.revma.com/nt1qhvnp81uvv"
+			},
+			{
+				"name" : "VIP Lounge",
+				"url" : "https://icy.unitedradio.it/rmcweb020"
+			}
+		]
+	},
+	{
+		"group" : "Country",
+		"stations" : 
+		[
+			{
+				"name" : "Boot Liquor",
+				"url" : "http://somafm.com/bootliquor.pls"
+			},
+			{
+				"name" : "Highway 181",
+				"url" : "http://www.181.fm/winamp.pls?station=181-highway&file=181-highway.pls"
+			},
+			{
+				"name" : "Country 108",
+				"url" : "http://www.country108.com/listen.pls"
+			},
+			{
+				"name" : "WAMU Bluegrass Country",
+				"url" : "http://ice24.securenetsystems.net/WAMU2"
+			}
+		]
+	},
+	{
+		"group" : "Talk",
+		"stations" : 
+		[
+			{
+				"name" : "Radio1",
+				"url" : "http://icestreaming.rai.it/1.mp3"
+			},
+			{
+				"name" : "Radio3",
+				"url" : "http://icestreaming.rai.it/3.mp3"
+			},
+			{
+				"name" : "Radio24",
+				"url" : "http://shoutcast.radio24.it:8000/"
+			},
+			{
+				"name" : "PopTron",
+				"url" : "http://somafm.com/poptron.pls"
+			}
+		]
+	},
+	{
+		"group" : "root",
+		"stations" : []
+	}
+]

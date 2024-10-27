@@ -13,11 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Processing in Sublime sotto Linux.md",
-                "mode": "source",
+                "file": "Tools/Post Template.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Post Template"
             }
           }
         ]
@@ -40,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
             }
           }
         ]
@@ -65,7 +69,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -77,7 +83,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -85,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "copilot-chat-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin non più attivo"
             }
           }
         ]
@@ -97,20 +107,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "868c3d11b0293909",
+  "active": "fcdc3818c0efe895",
   "lastOpenFiles": [
-    "Varia/QUAD9 params.md",
-    "Linux/Processing in Sublime sotto Linux.md",
-    "Linux/Ubuntu Survival Kit.md",
+    "Data/RadioTray.json",
+    "Data/GFeeds.opml",
+    "Data",
     "Tools/HK Memo.md",
-    "Tools/Post Template.md",
-    "Linux/Arch Survival Kit.md",
     "Linux/Webp Conversion.md",
+    "Linux/Arch Survival Kit.md",
+    "Linux/Processing in Sublime sotto Linux.md",
+    "Varia/QUAD9 params.md",
+    "Linux/Ubuntu Survival Kit.md",
+    "Tools/Post Template.md",
     "Varia/Generare l'elenco delle estensioni installate in VSCode.md",
     "Senza nome.md",
     "ChatGPT/Chat-2024_02_19-09_56_57.md",
@@ -131,7 +144,6 @@
     "Noise/Korg Kontrol Studio in Reaper.md",
     "Media/Image Cutup via Imagemagick e Cygwin.md",
     "Linux/Chown e chmod htdocs in Xampp.md",
-    "Linux/Build an RPM Pkg in Arch.md",
     "Noise",
     "Nuova cartella",
     "Web",

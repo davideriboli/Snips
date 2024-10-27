@@ -1,26 +1,6 @@
 ---
 tags: [linux/arch, linux/endeavour]
 ---
-#### Gimp and plugins
-
-```shell
-yay -S gimp xsane-gimp gimp-help-it gimp-nufraw gimp-plugin-gmic gimp-plugin-saveforweb
-```
-
-#### LibreOffice with synonyms, dictionaries and hyphenation
-
-```shell
-sudo pacman -S libreoffice-fresh libreoffice-fresh-it hunspell hunspell-it hyphen hyphen-it libmythes mythes-it thunderbird thunderbird-i18n-it
-
-```
-
-#### Some more fonts
-
-```shell
-yay -S ttf-ms-fonts ttf-ms33558 ttf-ms-win11-auto-other
-
-```
-
 #### Pacman Search
 
 ```shell
@@ -77,6 +57,24 @@ sudo pacman -Qtdq | pacman -Rns -
 
 ```
 
+---
+
+#### Tools and GUI
+
+```shell
+yay -S resources bpytop tilix nord-tilix papirus-icon-theme papirus-folders papirus-filezilla-themes papirus-folders-nordic enpass-bin solanum gnome-calendar ticktick
+```
+
+---
+
+#### Connessione estensioni Gnome
+
+```shell
+sudo pacman -Sy gnome-browser-connector
+```
+
+---
+
 #### Sublime Text and Sublime Merge
 
 ```shell
@@ -87,18 +85,45 @@ echo -e "\n[sublime-text]\nServer = https://download.sublimetext.com/arch/stable
 sudo pacman -Syu sublime-merge sublime-text
 ```
 
-#### Obsidian and Zettlr
+---
+
+#### Graph
 
 ```shell
-yay -S obsidian zettlr pandoc texlive-bin texlive-core
+yay -S gimp inkscape converseen xsane-gimp gimp-help-it gimp-nufraw gimp-plugin-gmic gimp-plugin-saveforweb imagemagick caesium-image-compressor-bin upscayl-bin
 ```
 
-#### Various Tools
+---
+
+#### Text
 
 ```shell
-git clone https://aur.archlinux.org/gnome-browser-connector.git; cd gnome-browser-connector
-
-makepkg -si
-
-yay -S pcloud-drive font-manager uget-integrator-chromium uget-integrator-firefox ffmpeg imagemagick handbrake tilix masperpdfeditor-free bpytop converseen filezilla papirus-filezilla-theme
+yay -S libreoffice-fresh libreoffice-fresh-it hunspell hunspell-it hyphen hyphen-it libmythes mythes-it masterpdfeditor-free onlyoffice-bin obsidian
 ```
+
+---
+
+#### Fonts
+
+```shell
+yay -S font-manager adobe-source-serif-fonts adobe-source-sans-fonts otf-bodoni ttf-ms-win11-auto noto-fonts-lite && sudo fc-cache
+```
+
+---
+
+#### Net
+
+```shell
+yay -S pcloud-drive filezilla papirus-filezilla-theme freedownloadmanager zapzap signal-desktop
+```
+
+---
+
+#### Rainy Day
+
+```shell
+yay -S leafpad cozy-audiobooks ttf-bookerly mcomix radiotray-ng gfeeds-git
+```
+
+---
+
