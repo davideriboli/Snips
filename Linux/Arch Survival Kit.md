@@ -127,3 +127,22 @@ yay -S leafpad cozy-audiobooks ttf-bookerly mcomix radiotray-ng gfeeds-git
 
 ---
 
+#### Processing in Sublime and Nodebox
+
+```shell
+#Assuming Processing in /home/stormy/App/Processing and Sublime Processing estension installed
+export PATH=$PATH:/home/stormy/App/Processing && sudo ln -s /home/stormy/App/Processing/processing-java /bin/processing-java
+
+git clone https://github.com/nodebox/nodebox
+ant run 
+```
+
+---
+
+#### Nautilus tools
+
+```shell
+yay -S  nautilus-checksums-git nautilus-admin-gtk4 nautilus-mediainfo nautilus-open-any-terminal python-nautilus nautilus-image-converter
+
+```
+
