@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Arch Survival Kit.md",
+                "file": "Varia/QUAD9 params.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Arch Survival Kit"
+              "title": "QUAD9 params"
             }
           }
         ]
@@ -114,13 +114,13 @@
   },
   "active": "868c3d11b0293909",
   "lastOpenFiles": [
+    "Linux/Arch Survival Kit.md",
     "Tools/Post Template.md",
     "Data/RadioTray.json",
     "Data/GFeeds.opml",
     "Data",
     "Tools/HK Memo.md",
     "Linux/Webp Conversion.md",
-    "Linux/Arch Survival Kit.md",
     "Linux/Processing in Sublime sotto Linux.md",
     "Varia/QUAD9 params.md",
     "Linux/Ubuntu Survival Kit.md",
