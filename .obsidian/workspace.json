@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Varia/Costruire un blog con Material for MKDocs, Obsidian, Github.md",
+                "file": "Varia/Sopravvivere a Git.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Costruire un blog con Material for MKDocs, Obsidian, Github"
+              "title": "Sopravvivere a Git"
             }
           }
         ]
@@ -51,8 +51,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5,
-    "collapsed": true
+    "width": 227.5
   },
   "right": {
     "id": "02651ed25eba39d4",
@@ -116,11 +115,12 @@
   },
   "active": "868c3d11b0293909",
   "lastOpenFiles": [
+    "Web/Costruire un blog con Material for MKDocs, Obsidian, Github.md",
+    "Varia/Sopravvivere a Git.md",
     "Linux/Webp Conversion.md",
     "Linux/Processing in Sublime sotto Linux.md",
     "Linux/Chown e chmod htdocs in Xampp.md",
     "Linux/Build an RPM Pkg in Arch.md",
-    "Varia/Costruire un blog con Material for MKDocs, Obsidian, Github.md",
     "Media/Arch Survival Kit.md",
     "linux endeavour.md",
     "Media/Gource.md",
@@ -146,7 +146,6 @@
     "Web/WP-Local FTP-Trick.md",
     "Python",
     "Web/Video-In-MkDocs.md",
-    "Web/BrowserSync-Server-4-P5.md",
     "Noise",
     "Nuova cartella",
     "Web",
