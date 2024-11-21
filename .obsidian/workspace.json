@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Varia/Sopravvivere a Git.md",
-                "mode": "source",
+                "file": "Varia/Sopravvivere a Sublime Merge, Git e GitHub.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Sopravvivere a Git"
+              "title": "Sopravvivere a Sublime Merge, Git e GitHub"
             }
           }
         ]
@@ -115,8 +115,10 @@
   },
   "active": "868c3d11b0293909",
   "lastOpenFiles": [
+    "Tools/Post Template.md",
+    "Tools/HK Memo.md",
+    "Varia/Sopravvivere a Sublime Merge, Git e GitHub.md",
     "Web/Costruire un blog con Material for MKDocs, Obsidian, Github.md",
-    "Varia/Sopravvivere a Git.md",
     "Linux/Webp Conversion.md",
     "Linux/Processing in Sublime sotto Linux.md",
     "Linux/Chown e chmod htdocs in Xampp.md",
@@ -127,11 +129,9 @@
     "Media/FFmpeg-Cookbook.md",
     "Python/Installazione di diverse versioni di Python in Windows e gestione dei venv.md",
     "Varia/QUAD9 params.md",
-    "Tools/Post Template.md",
     "Data/RadioTray.json",
     "Data/GFeeds.opml",
     "Data",
-    "Tools/HK Memo.md",
     "Linux/Ubuntu Survival Kit.md",
     "Varia/Generare l'elenco delle estensioni installate in VSCode.md",
     "Senza nome.md",
