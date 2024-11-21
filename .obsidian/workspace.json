@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Varia/QUAD9 params.md",
+                "file": "Linux/Arch Survival Kit.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "QUAD9 params"
+              "title": "Arch Survival Kit"
             }
           }
         ]
@@ -114,6 +114,7 @@
   },
   "active": "868c3d11b0293909",
   "lastOpenFiles": [
+    "Varia/QUAD9 params.md",
     "Linux/Arch Survival Kit.md",
     "Tools/Post Template.md",
     "Data/RadioTray.json",
@@ -122,7 +123,6 @@
     "Tools/HK Memo.md",
     "Linux/Webp Conversion.md",
     "Linux/Processing in Sublime sotto Linux.md",
-    "Varia/QUAD9 params.md",
     "Linux/Ubuntu Survival Kit.md",
     "Varia/Generare l'elenco delle estensioni installate in VSCode.md",
     "Senza nome.md",
