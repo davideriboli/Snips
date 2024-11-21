@@ -111,6 +111,8 @@ E aggiungiamo una nuova riga alla fine del file, scrivendo semplicemente `neofet
 
 Chiudete tutto, rilanciate e incrociate le dita. Se dopo un po' vi stufate, potete comunque scegliere un tema diverso tra i [tanti disponibili per Zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes).
 
+Neofetch alla fine l'ho tolto: è un po' ingombrante da avere ad ogni lancio di terminale. Ho sostituito con [Fortune](https://wiki.archlinux.org/title/Fortune) e [Oblique Strategies Mod](https://aur.archlinux.org/packages/fortune-mod-oblique-strategies). In questo caso, nell'ultima riga del file di configurazione di Zsh va messo `fortune oblique-strategies`.
+
 ## Riferimenti esterni
 
 - [Pimp My Terminal](https://drasite.com/blog/Pimp%20my%20terminal)

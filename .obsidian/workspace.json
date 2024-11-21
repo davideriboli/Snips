@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "Linux/Tilix-MakeUp.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Tilix-MakeUp"
             }
           }
         ]
@@ -115,8 +115,8 @@
   },
   "active": "868c3d11b0293909",
   "lastOpenFiles": [
-    "Linux/Tilix-MakeUp.md",
     "README.md",
+    "Linux/Tilix-MakeUp.md",
     "Varia/WP-Local FTP-Trick.md",
     "MKDocs & Co/Video-In-MkDocs.md",
     "MKDocs & Co/Costruire un blog con Material for MKDocs, Obsidian, Github.md",
