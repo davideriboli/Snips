@@ -1,12 +1,27 @@
 ---
-title: title
-pub date: {{date}} | {{time}}
+creato: {{date}}
 tags:
-  - linux/ubuntu
+  - linux
+  - python
+  - web
 ---
 
-Hide snap folder
+## Intro
 
-```shell
-echo snap >> ~/.hidden
-```
+Breve descrizione dell'argomento trattato in questa nota.
+
+- Primo obiettivo/concetto da coprire
+- Secondo obiettivo/concetto da coprire
+
+##  Ricetta
+
+Testi
+
+## Riferimenti esterni
+
+- [Link 1](url1)
+- [Link 2](url2)
+
+---
+
+*Ultima modifica: {{date}}*

@@ -1,5 +1,5 @@
 ---
-tags: [mkdocs, mkdocs/material, video]
+tags: [mkdocs, mkdocs, video]
 ---
 [MkDocs](https://www.mkdocs.org) and [Material4MkDocs](https://squidfunk.github.io/mkdocs-material/) support markdown and markdown supports HTML so, if you can host your own video files, [these lines](https://about.gitlab.com/handbook/markdown-guide/#display-local-videos-html5) work great.
 

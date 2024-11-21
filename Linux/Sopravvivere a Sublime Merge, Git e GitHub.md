@@ -3,7 +3,7 @@ title: Sopravvivere a Sublime Merge, Git e GitHub
 pub date: 2024-11-21 | 11:08
 tags:
   - linux
-  - linux/arch
+  - linux
   - git
   - github
 ---

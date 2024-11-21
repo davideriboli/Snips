@@ -1,9 +1,9 @@
 ---
 tags:
-  - linux/arch
-  - linux/endeavour
+  - linux
+  - linux
   - mkdocs
-  - mkdocs/material
+  - mkdocs
   - site
   - generator
   - python

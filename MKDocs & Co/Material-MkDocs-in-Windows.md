@@ -1,7 +1,7 @@
 ---
 tags:
   - mkdocs
-  - mkdocs/material
+  - mkdocs
   - site
   - generator
   - python

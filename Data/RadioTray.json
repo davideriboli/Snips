@@ -184,10 +184,6 @@
 			{
 				"name" : "Radio24",
 				"url" : "http://shoutcast.radio24.it:8000/"
-			},
-			{
-				"name" : "PopTron",
-				"url" : "http://somafm.com/poptron.pls"
 			}
 		]
 	},

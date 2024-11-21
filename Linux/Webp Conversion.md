@@ -1,9 +1,9 @@
 ---
 tags:
   - shell
-  - linux/arch
-  - linux/endeavour
-  - tilix
+  - linux
+  - linux
+  - linux
   - web
   - imagemagick
 ---

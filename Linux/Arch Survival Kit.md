@@ -1,5 +1,5 @@
 ---
-tags: [linux/arch, linux/endeavour]
+tags: [linux, linux]
 ---
 #### Pacman Search
 

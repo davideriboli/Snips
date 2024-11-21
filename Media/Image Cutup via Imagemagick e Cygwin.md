@@ -1,5 +1,5 @@
 ---
-tags: [generative-art/script, shell, imagemagick]
+tags: [generative-art, shell, imagemagick]
 ---
 ## Info
 

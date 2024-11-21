@@ -1,5 +1,5 @@
 ---
-tags: [data-visualization, generative-art/tools, github, video]
+tags: [data-visualization, generative-art, github, video]
 ---
 REF: https://gource.io/.
 

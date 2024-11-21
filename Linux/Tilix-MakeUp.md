@@ -1,5 +1,5 @@
 ---
-tags: [shell, linux/arch, linux/endeavour, tilix]
+tags: [shell, linux, linux, linux]
 ---
 REFs:
 

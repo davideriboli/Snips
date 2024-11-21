@@ -5,7 +5,7 @@ tags:
   - github
   - linux
   - mkdocs
-  - mkdocs/material
+  - mkdocs
   - python
   - tools
 ---
