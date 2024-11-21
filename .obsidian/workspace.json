@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Arch Survival Kit.md",
-                "mode": "preview",
+                "file": "Varia/Costruire un blog con Material for MKDocs, Obsidian, Github.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Arch Survival Kit"
+              "title": "Costruire un blog con Material for MKDocs, Obsidian, Github"
             }
           }
         ]
@@ -51,7 +51,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 227.5,
+    "collapsed": true
   },
   "right": {
     "id": "02651ed25eba39d4",
@@ -61,19 +62,6 @@
         "id": "fab7fa9b83985967",
         "type": "tabs",
         "children": [
-          {
-            "id": "0e0993d249d9cc6b",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
           {
             "id": "da9fa1f982e868e6",
             "type": "leaf",
@@ -85,7 +73,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "Tutte le proprietà"
             }
           },
           {
@@ -97,12 +85,26 @@
               "icon": "lucide-file",
               "title": "Plugin non più attivo"
             }
+          },
+          {
+            "id": "e20ef201b6fe3114",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 317.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -114,15 +116,22 @@
   },
   "active": "868c3d11b0293909",
   "lastOpenFiles": [
+    "Linux/Webp Conversion.md",
+    "Linux/Processing in Sublime sotto Linux.md",
+    "Linux/Chown e chmod htdocs in Xampp.md",
+    "Linux/Build an RPM Pkg in Arch.md",
+    "Varia/Costruire un blog con Material for MKDocs, Obsidian, Github.md",
+    "Media/Arch Survival Kit.md",
+    "linux endeavour.md",
+    "Media/Gource.md",
+    "Media/FFmpeg-Cookbook.md",
+    "Python/Installazione di diverse versioni di Python in Windows e gestione dei venv.md",
     "Varia/QUAD9 params.md",
-    "Linux/Arch Survival Kit.md",
     "Tools/Post Template.md",
     "Data/RadioTray.json",
     "Data/GFeeds.opml",
     "Data",
     "Tools/HK Memo.md",
-    "Linux/Webp Conversion.md",
-    "Linux/Processing in Sublime sotto Linux.md",
     "Linux/Ubuntu Survival Kit.md",
     "Varia/Generare l'elenco delle estensioni installate in VSCode.md",
     "Senza nome.md",
@@ -132,18 +141,12 @@
     "Linux/Tilix-MakeUp.md",
     "Media/YT-DLP.md",
     "Media/Video in Kiosk Mode.md",
-    "Media/Gource.md",
-    "Media/FFmpeg-Cookbook.md",
     "Python/Material-MkDocs-in-Windows.md",
     "Python/Material-MkDocs-in-Arch-Linux.md",
-    "Python/Installazione di diverse versioni di Python in Windows e gestione dei venv.md",
     "Web/WP-Local FTP-Trick.md",
     "Python",
     "Web/Video-In-MkDocs.md",
     "Web/BrowserSync-Server-4-P5.md",
-    "Noise/Korg Kontrol Studio in Reaper.md",
-    "Media/Image Cutup via Imagemagick e Cygwin.md",
-    "Linux/Chown e chmod htdocs in Xampp.md",
     "Noise",
     "Nuova cartella",
     "Web",
