@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Tilix-MakeUp.md",
+                "file": "Linux/Arch Survival Kit.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tilix-MakeUp"
+              "title": "Arch Survival Kit"
             }
           }
         ]
@@ -115,19 +115,21 @@
   },
   "active": "868c3d11b0293909",
   "lastOpenFiles": [
-    "README.md",
+    "MKDocs & Co/Costruire un blog con Material for MKDocs, Obsidian, Github.md",
+    "Linux/Arch Survival Kit.md",
+    "Data/ObsidianPlugin.md",
+    "Data/Leggimi.md",
+    "MKDocs & Co/Material-MkDocs-in-Windows.md",
+    "MKDocs & Co/Material-MkDocs-in-Arch-Linux.md",
     "Linux/Tilix-MakeUp.md",
+    "README.md",
     "Varia/WP-Local FTP-Trick.md",
     "MKDocs & Co/Video-In-MkDocs.md",
-    "MKDocs & Co/Costruire un blog con Material for MKDocs, Obsidian, Github.md",
     "Varia/BrowserSync-Server-4-P5.md",
-    "Data/Leggimi.md",
     "Data/QUAD9.md",
     "Tools/Post Template.md",
     "Varia/Generare l'elenco delle estensioni installate in VSCode.md",
     "Tools/HK Memo.md",
-    "MKDocs & Co/Material-MkDocs-in-Windows.md",
-    "MKDocs & Co/Material-MkDocs-in-Arch-Linux.md",
     "Media/YT-DLP.md",
     "Python/Installazione di diverse versioni di Python in Windows e gestione dei venv.md",
     "Media/Video in Kiosk Mode.md",
@@ -139,8 +141,6 @@
     "Linux/Build an RPM Pkg in Arch.md",
     "Linux/Sopravvivere a Sublime Merge, Git e GitHub.md",
     "Linux/Chown e chmod htdocs in Xampp.md",
-    "Linux/Arch Survival Kit.md",
-    "linux endeavour.md",
     "Data/RadioTray.json",
     "Data/GFeeds.opml",
     "Data",

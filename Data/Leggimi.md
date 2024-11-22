@@ -12,6 +12,7 @@ File di dati e configurazioni utili quando reinstallo programmi o sistemi operat
 
 - [dati radio internet](RadioTray.json)
 - [indice OPML  per RSS reader](GFeeds.opml)
+- [indice plugin Obsidian](ObsidianPlugin)
 - [QUAD9 DNS](QUAD9)
 
 ## Riferimenti esterni
