@@ -29,6 +29,7 @@ Istruzioni e qualche trucco per risparmiare tempo con le installazioni/manutenzi
         - Tools and GUI
         - Graph
         - Fonts
+            - Noto Killer
         - Nautilus tools
     - Varia
         - Processing in Sublime and Nodebox
@@ -106,7 +107,7 @@ sudo pacman -Syu sublime-merge sublime-text
 #### Text
 
 ```shell
-yay -S libreoffice-fresh libreoffice-fresh-it hunspell hunspell-it hyphen hyphen-it libmythes mythes-it masterpdfeditor-free onlyoffice-bin obsidian zotero-bin gpt4all-chat-git
+yay -S libreoffice-fresh libreoffice-fresh-it hunspell hunspell-it hyphen hyphen-it libmythes mythes-it masterpdfeditor-free onlyoffice-bin obsidian zotero-bin gpt4all-chat-git texlive #Cercare pandoc
 ```
 
 #### Net
@@ -130,10 +131,17 @@ yay -S gimp inkscape converseen xsane-gimp gimp-help-it gimp-nufraw gimp-plugin-
 #### Fonts
 
 ```shell
-yay -S font-manager adobe-source-serif-fonts adobe-source-sans-fonts otf-bodoni ttf-ms-win11-auto noto-fonts-lite && sudo fc-cache
+yay -S adobe-source-serif-fonts adobe-source-sans-fonts otf-bodoni ttf-ms-win11-auto noto-fonts-lite && sudo fc-cache
 ```
 
-*Nota: inserire la procedura corretta per liberarsi degli stramaledettissimi Noto.*
+##### Noto Killer
+
+```shell
+sudo pacman -Rdd noto-fonts-extra
+sudo pacman -Rdd noto-fonts-cjk
+yay -S noto-fonts-lite
+```
+
 
 #### Nautilus tools
 
