@@ -1,10 +1,17 @@
 ---
-tags: [ffmpeg, video]
+creato: dom 01/12/2024
+tags:
+  - linux
+  - video
 ---
 
-REF: https://www.marcosbox.org/2023/08/usare-ffmpeg-da-linea-di-comando.html
+## Intro
 
-- Returns a single frame as an image (e.g. searches for the location 0h:0m:14sec:435msec and transforms the frame into a .png file):
+Rassegna di ricette FFMPEG sgraffignate in giro o via Claude.
+
+##  Ricette
+
+- Restituisce un singolo frame come immagine (nell'esempio, cerca il frame a 0h:0m:14sec:435msec e lo salva come .png):
 
 ```shell
 
@@ -12,7 +19,7 @@ ffmpeg -i input.flv -ss 00:00:14.435 -vframes 1 out.png
 
 ```
 
-- It returns an image every second, naming them sequentially _out1.png, out2.png, out3.png_, etc.
+- Restituisce una immagine ogni secondo, nominandole in sequenza:
 
 ```shell
 
@@ -20,7 +27,7 @@ ffmpeg -i input.flv -vf fps=1 out%d.png
 
 ``` 
 
-- It returns an image every minute, naming them sequentially _img001.jpg, img002.jpg, img003.jpg,_ etc. The %03d command imposes a three-digit sorting.
+- Restituisce una immagine ogni minuto, nominandole in sequenza. Il comando %03d impone ordinamento a tre cifre.
 
 ```shell
 
@@ -28,7 +35,7 @@ ffmpeg -i myvideo.avi -vf fps=1/60 img%03d.jpg
 
 ``` 
 
-- It returns an image every 10 minutes.
+- Restituisce una immagine ogni 10 minuti, nominandole in sequenza.
 
 ```shell
 
@@ -36,7 +43,7 @@ ffmpeg -i test.flv -vf fps=1/600 thumb%04d.bmp
 
 ```
 
-- Extracts MP3 VBR audio from video. _QUALITY_ should be replaced with a number from 0 to 9, where 0 indicates the best possible quality.
+- Estrae audio da un video e lo salva in mp3 vbr. Il parametro _QUALITY_ va rimpiazzato con un valore tra 0 e 9, dove 0 indica massima qualità.
 
 ```shell
 
@@ -44,19 +51,18 @@ ffmpeg -i myvideo.mp4 -codec:a libmp3lame -q:a QUALITY audio.mp3
 
 ```
 
-- Converts an mp4 to wepm, good quality (more refs [here](https://video.stackexchange.com/questions/19590/convert-mp4-to-webm-without-quality-loss-with-ffmpeg)).
+- Converte un mp4 in wepm. Il valore di crf a 0 indica massima qualità. Il miglior rapporto tra peso e qualità è con un crf tra 18 e 25.
 
 ```shell
-
-ffmpeg  -i input.mp4  -b:v 0  -crf 30  -pass 1  -an -f webm -y /dev/null
-ffmpeg  -i input.mp4  -b:v 0  -crf 30  -pass 2  output.webm
-
+ffmpeg -i input.mp4 -c:v libvpx-vp9 -crf 0 -b:v 0 -c:a libopus output.webm
 ```
 
-- Converts an mp4 to ogg, (pay attention to _a_ and _v_ quality: more refs [here](https://superuser.com/questions/1096841/how-do-i-convert-mp4-to-ogv-while-still-retaining-the-same-quality-using-ffmpeg/1096865)).
+- Converte un mp4 in ogv. Il valore di q:v a 10 indica massima qualità. Il miglior rapporto tra peso e qualità è con un q:v tra 6 e 8.
 
 ```shell
-
-ffmpeg -i input.mp4 -c:v libtheora -q:v 7 -c:a libvorbis -q:a 4 output.ogv
-
+ffmpeg -i input.mp4 -c:v libtheora -q:v 10 -c:a libvorbis output.ogv
 ```
+
+---
+
+*Ultima modifica: dom 01/12/2024*

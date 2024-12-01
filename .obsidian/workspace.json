@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Chown e chmod htdocs in Xampp.md",
+                "file": "Media/FFmpeg-Cookbook.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chown e chmod htdocs in Xampp"
+              "title": "FFmpeg-Cookbook"
             }
           }
         ]
@@ -115,22 +115,25 @@
   },
   "active": "868c3d11b0293909",
   "lastOpenFiles": [
+    "MKDocs & Co/Video-In-MkDocs.md",
     "MKDocs & Co/Material-MkDocs-in-Arch-Linux.md",
-    "MKDocs & Co/Costruire un blog con Material for MKDocs, Obsidian, Github.md",
+    "Linux/Arch Survival Kit.md",
+    "Senza nome.md",
+    "Tools/Post Template.md",
+    "Tools/Senza nome.md",
+    "Obsidian.md",
     "Linux/Chown e chmod htdocs in Xampp.md",
+    "MKDocs & Co/Costruire un blog con Material for MKDocs, Obsidian, Github.md",
     "Media/Webp Conversion.md",
     "Linux/Tilix-MakeUp.md",
     "Linux/Sopravvivere a Sublime Merge, Git e GitHub.md",
-    "Linux/Arch Survival Kit.md",
     "Data/ObsidianPlugin.md",
     "Data/Leggimi.md",
     "MKDocs & Co/Material-MkDocs-in-Windows.md",
     "README.md",
     "Varia/WP-Local FTP-Trick.md",
-    "MKDocs & Co/Video-In-MkDocs.md",
     "Varia/BrowserSync-Server-4-P5.md",
     "Data/QUAD9.md",
-    "Tools/Post Template.md",
     "Varia/Generare l'elenco delle estensioni installate in VSCode.md",
     "Tools/HK Memo.md",
     "Media/YT-DLP.md",
@@ -138,9 +141,6 @@
     "Media/Video in Kiosk Mode.md",
     "Media/Image Cutup via Imagemagick e Cygwin.md",
     "Media/Gource.md",
-    "Media/FFmpeg-Cookbook.md",
-    "Linux/Processing in Sublime sotto Linux.md",
-    "Linux/Build an RPM Pkg in Arch.md",
     "Data/RadioTray.json",
     "Data/GFeeds.opml",
     "Data",
