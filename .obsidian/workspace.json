@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Media/FFmpeg-Cookbook.md",
+                "file": "MKDocs & Co/Material-MkDocs-in-Windows.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "FFmpeg-Cookbook"
+              "title": "Material-MkDocs-in-Windows"
             }
           }
         ]
@@ -108,12 +108,14 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
   "active": "868c3d11b0293909",
   "lastOpenFiles": [
+    "Media/FFmpeg-Cookbook.md",
     "MKDocs & Co/Video-In-MkDocs.md",
     "MKDocs & Co/Material-MkDocs-in-Arch-Linux.md",
     "Linux/Arch Survival Kit.md",
@@ -139,7 +141,6 @@
     "Python/Installazione di diverse versioni di Python in Windows e gestione dei venv.md",
     "Media/Video in Kiosk Mode.md",
     "Media/Image Cutup via Imagemagick e Cygwin.md",
-    "Media/Gource.md",
     "Data/RadioTray.json",
     "Data/GFeeds.opml",
     "Data",
