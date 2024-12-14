@@ -1,66 +1,59 @@
 ---
+creato: ven 13/12/2024
 tags:
   - linux
-  - linux
-  - mkdocs
-  - mkdocs
-  - site
-  - generator
   - python
+  - mkdocs
 ---
-Installing [MkDocs](https://www.mkdocs.org/) or [Material MkDocs](https://squidfunk.github.io/mkdocs-material/) used to take no more than thirty seconds, but since it has become mandatory in several linux distros to run Python in virtual environments, things have gotten a little more complicated. These are the commands I use, under [Arch](https://archlinux.org/) or [EndeavourOS](https://endeavouros.com/).
 
-#### Create the Venv
+## Intro
 
-This one is to add the venv to your working directory:
+Promemoria installazione M4MKdocs in Linux.
+
+##  Ricetta
+
+### 01 Crea un VENV
+
+Logicamente, nella *directory* che conterrà tutto.
 
 ```python
-python -m venv YOUR-FUTURE-SITE-DIR
+python -m venv VENV
 ```
 
-#### Activate the Venv
+### 02 Attiva Venv
 
-Engine start:
+Sotto Linux, ci vuole `source`.
 
 ```shell
-source YOUR-FUTURE-SITE-DIR/bin/activate
+source VENV/bin/activate
 ```
 
-#### Upgrade PIP
+### 03 Aggiorna PIP
 
-There's no life without it : )
+Solo se serve aggiornarlo. Dovrebbe dirlo lui, dopo il primo uso.
 
 ```python
 pip install --upgrade pip
 ``` 
 
-#### Install everything
+### 04 Installa tutto
 
-This is what I need. You can add other extensions or remove what you don't use.
+Controllare sul sito la lista degli elementi davvero necessari.
 
 ```python
 pip install mkdocs-material mkdocs-material-extensions mkdocs-glightbox Pillow cairosvg
 ``` 
 
-#### Create your site
+### 05 Crea il sito
 
-Now you can [create your basic site](https://squidfunk.github.io/mkdocs-material/creating-your-site/) that will grow with your contents and your graphics. If there's no output, probably you'll need another _activate_ command.
+[Così...](https://squidfunk.github.io/mkdocs-material/creating-your-site/). Controlla il *repository* di https://github.com/davideriboli/davideriboli.github.io per uno yaml bello e fatto.
 
 
-#### Render your site
+## Riferimenti esterni
 
-Generate the HTML and CSS for your site with:
+-  [MkDocs](https://www.mkdocs.org/)
+-  [Material4MkDocs](https://squidfunk.github.io/mkdocs-material/)
 
-```shell
-mkdocs build
-```
+---
 
-The script will create a new _site_ folder to upload to your server.
-
-#### Stop everything
-
-Don't leave your box without deactivating the venv. Launch cmd in the venv folder.
-
-```shell
-deactivate
-```
+*Ultima modifica: ven 13/12/2024*
