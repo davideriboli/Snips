@@ -121,3 +121,30 @@ Neofetch alla fine l'ho tolto: è un po' ingombrante da avere ad ogni lancio di 
 ---
 
 *Ultima modifica: gio 21/11/2024*
+
+```processing
+float angolo = 0;
+
+void setup() {
+  size(600, 600);
+  noStroke();
+}
+
+void draw() {
+  background(0, 128, 0); // Sfondo verde scuro
+  fill(255, 0, 0); // Triangolo rosso
+  pushMatrix();
+  translate(width/2, height/2);
+  rotate(radians(angolo));
+  beginShape();
+  for (int i = 0; i < 3; i++) {
+    float x = 100 * cos(radians(i * 120));
+    float y = 100 * sin(radians(i * 120));
+    vertex(x, y);
+  }
+  endShape(CLOSE);
+  popMatrix();
+  angolo += 2;
+  if (angolo > 360) angolo = 0;
+}
+```
