@@ -1,0 +1,264 @@
+{
+  "stations": {
+    
+    "17620175395040": {
+      "name": "17620175395040",
+      "title": "Soma Sonic Universe",
+      "url": "https://somafm.com/sonicuniverse/",
+      "image": "https://somafm.com/logos/256/sonicuniverse256.png",
+      "streams": {
+        "0": "https://ice5.somafm.com/sonicuniverse-128-mp3"
+      }
+    },
+    
+    "17620176207511": {
+      "name": "17620176207511",
+      "title": "RMC Jazz",
+      "url": "https://www.radiomontecarlo.net/sezioni/12179/radio-monte-carlo-jazz",
+      "image": "https://www.radiomontecarlo.net/resizer/320/320/true/RMC_JAZZ_WebRadio-1641291186223.jpg--.jpg",
+      "streams": {
+        "0": "https://icy.unitedradio.it/rmcweb019"
+      }
+    },
+    
+    "17620176765532": {
+      "name": "17620176765532",
+      "title": "RMC Smooth Jazz",
+      "url": "https://www.rmc2.net/webradio/mc2-smooth-jazz/",
+      "image": "https://www.rmc2.net/wp-content/uploads/2020/08/1692x610_005_JAZ.jpg",
+      "streams": {
+        "0": "https://stream.rcs.revma.com/4t617kep81uvv"
+      }
+    },
+    
+    "17620177835443": {
+      "name": "17620177835443",
+      "title": "RAI Radio 1",
+      "url": "https://www.raiplaysound.it/radio1",
+      "image": "https://www.raiplaysound.it/cropgd/184x184/dl/img/2024/09/25/1727251143356_placeholderRadio12x_NUOVO_2024_09.png",
+      "streams": {
+        "0": "http://icestreaming.rai.it/1.mp3"
+      }
+    },
+    
+    "17620178149684": {
+      "name": "17620178149684",
+      "title": "RAI Radio 3",
+      "url": "https://www.raiplaysound.it/radio3",
+      "image": "https://www.raiplaysound.it/cropgd/184x184/dl/img/2024/09/25/1727251431340_placeholderRadio32x_NUOVO_2024_09.png",
+      "streams": {
+        "0": "http://icestreaming.rai.it/3.mp3"
+      }
+    },
+    
+    "17620178632245": {
+      "name": "17620178632245",
+      "title": "Soma Secret Agent",
+      "url": "https://somafm.com/secretagent/",
+      "image": "https://somafm.com/logos/256/secretagent256.png",
+      "streams": {
+        "0": "https://ice5.somafm.com/secretagent-128-mp3"
+      }
+    },
+    
+    "17620179333676": {
+      "name": "17620179333676",
+      "title": "Soma Tiki Time",
+      "url": "https://somafm.com/tikitime/",
+      "image": "https://somafm.com/logos/256/tikitime256.jpg",
+      "streams": {
+        "0": "https://ice5.somafm.com/tikitime-128-mp3"
+      }
+    },
+    
+    "17620179737207": {
+      "name": "17620179737207",
+      "title": "Soma SF Scanner",
+      "url": "https://somafm.com/scanner/",
+      "image": "https://somafm.com/logos/256/scanner256.png",
+      "streams": {
+        "0": "https://ice5.somafm.com/scanner-128-mp3"
+      }
+    },
+    
+    "17620180082488": {
+      "name": "17620180082488",
+      "title": "Soma Boot Liquor",
+      "url": "https://somafm.com/bootliquor/",
+      "image": "https://somafm.com/logos/256/bootliquor256.png",
+      "streams": {
+        "0": "https://ice5.somafm.com/bootliquor-128-mp3"
+      }
+    },
+    
+    "17620180445449": {
+      "name": "17620180445449",
+      "title": "Soma DefCon",
+      "url": "https://somafm.com/defcon/",
+      "image": "https://somafm.com/logos/256/defcon256.jpg",
+      "streams": {
+        "0": "https://ice5.somafm.com/defcon-128-aac"
+      }
+    },
+    
+    "176201808603110": {
+      "name": "176201808603110",
+      "title": "Soma Mission Control",
+      "url": "https://somafm.com/missioncontrol/",
+      "image": "https://somafm.com/logos/256/missioncontrol256.jpg",
+      "streams": {
+        "0": "https://ice5.somafm.com/missioncontrol-128-mp3"
+      }
+    },
+    
+    "176201812994411": {
+      "name": "176201812994411",
+      "title": "Soma SF-1033",
+      "url": "https://somafm.com/sf1033/",
+      "image": "https://somafm.com/logos/256/sf1033256.png",
+      "streams": {
+        "0": "https://ice5.somafm.com/sf1033-128-mp3"
+      }
+    },
+    
+    "176201817329512": {
+      "name": "176201817329512",
+      "title": "Soma Christmas Lounge",
+      "url": "https://somafm.com/christmas/",
+      "image": "https://somafm.com/logos/256/christmas256.png",
+      "streams": {
+        "0": "https://ice5.somafm.com/christmas-128-aac"
+      }
+    },
+    
+    "176201822756713": {
+      "name": "176201822756713",
+      "title": "Soma Christmas Department",
+      "url": "https://somafm.com/deptstore/",
+      "image": "https://somafm.com/logos/256/deptstore256.jpg",
+      "streams": {
+        "0": "https://ice5.somafm.com/deptstore-128-aac"
+      }
+    },
+    
+    "176201827596014": {
+      "name": "176201827596014",
+      "title": "Soma 7 Inch Soul",
+      "url": "https://somafm.com/7soul/",
+      "image": "https://somafm.com/logos/256/7soul256.jpg",
+      "streams": {
+        "0": "https://ice5.somafm.com/7soul-128-mp3"
+      }
+    },
+    
+    "176201832218315": {
+      "name": "176201832218315",
+      "title": "Soma Left Coast 70s",
+      "url": "https://somafm.com/seventies/",
+      "image": "https://somafm.com/logos/256/seventies256.jpg",
+      "streams": {
+        "0": "https://ice5.somafm.com/seventies-128-mp3"
+      }
+    },
+    
+    "176201836914316": {
+      "name": "176201836914316",
+      "title": "Soma Folk Forward",
+      "url": "https://somafm.com/folkfwd/",
+      "image": "https://somafm.com/logos/256/folkfwd256.jpg",
+      "streams": {
+        "0": "https://ice5.somafm.com/folkfwd-128-aac"
+      }
+    },
+    
+    "176201841324817": {
+      "name": "176201841324817",
+      "title": "Soma Illinois Street Lounge",
+      "url": "https://somafm.com/illstreet/",
+      "image": "https://somafm.com/logos/256/illstreet256.jpg",
+      "streams": {
+        "0": "https://ice5.somafm.com/illstreet-128-mp3"
+      }
+    },
+    
+    "176201845788818": {
+      "name": "176201845788818",
+      "title": "Soma The In-Sound",
+      "url": "https://somafm.com/insound/",
+      "image": "https://somafm.com/logos/120/insound120.jpg",
+      "streams": {
+        "0": "https://ice5.somafm.com/insound-128-mp3"
+      }
+    },
+    
+    "176201849813619": {
+      "name": "176201849813619",
+      "title": "Soma Jolly Ol' Soul",
+      "url": "https://somafm.com/jollysoul/",
+      "image": "https://somafm.com/logos/256/jollysoul256.png",
+      "streams": {
+        "0": "https://ice5.somafm.com/jollysoul-128-mp3"
+      }
+    },
+    
+    "176201854357620": {
+      "name": "176201854357620",
+      "title": "Soma Bossa Beyond",
+      "url": "https://somafm.com/bossa/",
+      "image": "https://somafm.com/logos/120/bossa120.jpg",
+      "streams": {
+        "0": "https://ice5.somafm.com/bossa-128-mp3"
+      }
+    },
+    
+    "176201859515321": {
+      "name": "176201859515321",
+      "title": "RMC Via Montenapoleone",
+      "url": "https://www.rmc2.net/webradio/mc2_montenapoleone_channel/",
+      "image": "https://www.rmc2.net/wp-content/uploads/2022/02/1692x610_013_NAP-1.jpg",
+      "streams": {
+        "0": "https://stream.rcs.revma.com/x3n887pp81uvv"
+      }
+    },
+    
+    "176201866365522": {
+      "name": "176201866365522",
+      "title": "RMC Night Story",
+      "url": "https://www.radiomontecarlo.net/sezioni/10479/monte-carlo-nights-story",
+      "image": "https://www.radiomontecarlo.net/resizer/270/270/true/RMC_Playlist-1601527574613.jpg--.jpg",
+      "streams": {
+        "0": "https://icy.unitedradio.it/rmcweb012"
+      }
+    },
+    
+    "176201870052823": {
+      "name": "176201870052823",
+      "title": "RMC Cool",
+      "url": "",
+      "image": "",
+      "streams": {
+        "0": "https://icy.unitedradio.it/rmcweb004"
+      }
+    },
+    
+    "176201876729524": {
+      "name": "176201876729524",
+      "title": "RMC Unforgettable",
+      "url": "https://www.rmc2.net/webradio/mc2-unforgettable/",
+      "image": "https://www.rmc2.net/wp-content/uploads/2020/08/1692x610_010_UNF.jpg",
+      "streams": {
+        "0": "https://stream.rcs.revma.com/nt1qhvnp81uvv"
+      }
+    },
+    
+    "176201882360725": {
+      "name": "176201882360725",
+      "title": "RMC Tiffany",
+      "url": "https://www.rmc2.net/webradio/mc2-tiffany-channel/",
+      "image": "https://www.rmc2.net/wp-content/uploads/2020/08/1692x610_012_TIF.jpg",
+      "streams": {
+        "0": "https://stream.rcs.revma.com/ksvn8tpp81uvv"
+      }
+    }
+  }
+}

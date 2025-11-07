@@ -1,0 +1,118 @@
+ <GRUPPO>somafm</GRUPPO>
+
+  <STAZIONE>Boot Liquor</STAZIONE>
+  <URL>https://ice5.somafm.com/bootliquor-128-mp3</URL>
+
+  <STAZIONE>Bossa Beyond</STAZIONE>
+  <URL>https://ice5.somafm.com/bossa-128-mp3</URL>
+
+  <STAZIONE>Christmas Department</STAZIONE>
+  <URL>https://ice5.somafm.com/deptstore-128-aac</URL>
+
+  <STAZIONE>Christmas Lounge</STAZIONE>
+  <URL>https://ice5.somafm.com/christmas-128-aac</URL>
+
+  <STAZIONE>Covers</STAZIONE>
+  <URL>https://ice5.somafm.com/covers-128-aac</URL>
+
+  <STAZIONE>Defcon</STAZIONE>
+  <URL>https://ice5.somafm.com/defcon-128-aac</URL>
+
+  <STAZIONE>Drone Zone</STAZIONE>
+  <URL>http://dronezone.radio.mynoise.net</URL>
+
+  <STAZIONE>Folk Forward</STAZIONE>
+  <URL>https://ice5.somafm.com/folkfwd-128-aac</URL>
+
+  <STAZIONE>Illinois Street Lounge</STAZIONE>
+  <URL>https://ice5.somafm.com/illstreet-128-mp3</URL>
+
+  <STAZIONE>Jolly Ol' Soul</STAZIONE>
+  <URL>https://ice5.somafm.com/jollysoul-128-mp3</URL>
+
+  <STAZIONE>Left Coast 70s</STAZIONE>
+  <URL>https://ice5.somafm.com/seventies-128-mp3</URL>
+
+  <STAZIONE>Mission Control</STAZIONE>
+  <URL>https://ice5.somafm.com/missioncontrol-128-mp3</URL>
+
+   <STAZIONE>Secret Agent</STAZIONE>
+  <URL>https://ice5.somafm.com/secretagent-128-mp3</URL>
+
+  <STAZIONE>Seven Inch Soul</STAZIONE>
+  <URL>https://ice5.somafm.com/7soul-128-mp3</URL>
+
+  <STAZIONE>SF-1033</STAZIONE>
+  <URL>https://ice5.somafm.com/sf1033-128-mp3</URL>
+
+  <STAZIONE>SF-Scanner</STAZIONE>
+  <URL>https://ice5.somafm.com/scanner-128-mp3</URL>
+
+  <STAZIONE>Soma Sonic Universe</STAZIONE>
+  <URL>https://ice5.somafm.com/sonicuniverse-128-mp3</URL>
+
+  <STAZIONE>The In-Sound</STAZIONE>
+  <URL>https://ice5.somafm.com/insound-128-mp3</URL>
+
+  <STAZIONE>Tiki Time</STAZIONE>
+  <URL>https://ice5.somafm.com/tikitime-128-mp3</URL>
+
+<GRUPPO>mynoise</GRUPPO>
+
+  <STAZIONE>Ocean Waves</STAZIONE>
+  <URL>http://oceanwaves.radio.mynoise.net</URL>
+
+  <STAZIONE>Pure Nature</STAZIONE>
+  <URL>https://purenature-mynoise.radioca.st/stream</URL>
+
+  <STAZIONE>Rainy Day</STAZIONE>
+  <URL>https://rainyday-mynoise.radioca.st/stream</URL>
+
+  <STAZIONE>Siren Songs</STAZIONE>
+  <URL>https://sirensongs-mynoise.radioca.st/stream</URL>
+
+  <STAZIONE>Zen Garden</STAZIONE>
+  <URL>https://zengarden-mynoise.radioca.st/stream</URL>
+
+<GRUPPO>News & Talk</GRUPPO>
+
+  <STAZIONE>Radio24</STAZIONE>
+  <URL>http://shoutcast.radio24.it:8000/</URL>
+
+  <STAZIONE>Rai Radio1</STAZIONE>
+  <URL>http://icestreaming.rai.it/1.mp3</URL>
+
+  <STAZIONE>Rai Radio3</STAZIONE>
+  <URL>http://icestreaming.rai.it/3.mp3</URL>
+
+<GRUPPO>RMC</GRUPPO>
+
+  <STAZIONE>RMC 2</STAZIONE>
+  <URL>https://stream.rcs.revma.com/yuwet426r7uvv</URL>
+
+  <STAZIONE>RMC Blue Moon</STAZIONE>
+  <URL>https://icy.unitedradio.it/rmcweb017</URL>
+
+  <STAZIONE>RMC Cool</STAZIONE>
+  <URL>https://icy.unitedradio.it/rmcweb004</URL>
+
+  <STAZIONE>RMC Jazz</STAZIONE>
+  <URL>https://icy.unitedradio.it/rmcweb019</URL>
+
+  <STAZIONE>RMC Main Stream</STAZIONE>
+  <URL>http://icecast.unitedradio.it/RMC.mp3</URL>
+
+  <STAZIONE>RMC Nights Story</STAZIONE>
+  <URL>https://icy.unitedradio.it/rmcweb012</URL>
+
+  <STAZIONE>RMC Smooth Jazz</STAZIONE>
+  <URL>https://stream.rcs.revma.com/4t617kep81uvv</URL>
+
+  <STAZIONE>RMC Tiffany</STAZIONE>
+  <URL>https://stream.rcs.revma.com/ksvn8tpp81uvv</URL>
+
+  <STAZIONE>RMC Unforgettable</STAZIONE>
+  <URL>https://stream.rcs.revma.com/nt1qhvnp81uvv</URL>
+
+  <STAZIONE>RMC Via Montenapoleone</STAZIONE>
+  <URL>https://stream.rcs.revma.com/x3n887pp81uvv</URL>
