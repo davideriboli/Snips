@@ -107,19 +107,19 @@ sudo pacman -Syu sublime-merge sublime-text
 #### Text
 
 ```shell
-yay -S libreoffice-fresh libreoffice-fresh-it hunspell hunspell-it hyphen hyphen-it libmythes mythes-it masterpdfeditor-free onlyoffice-bin obsidian zotero-bin gpt4all-chat-git texlive #Cercare pandoc
+yay -S libreoffice-fresh libreoffice-fresh-it hunspell hunspell-it hyphen hyphen-it libmythes mythes-it masterpdfeditor-free onlyoffice-bin obsidian notesnook-bin lmstudio
 ```
 
 #### Net
 
 ```shell
-yay -S pcloud-drive filezilla papirus-filezilla-theme freedownloadmanager zapzap signal-desktop surfshark-client chromium mailspring-bin
+yay -S filezilla papirus-filezilla-theme zapzap signal-desktop surfshark-client google-chrome
 ```
 
 #### Tools and GUI
 
 ```shell
-yay -S resources bpytop tilix nord-tilix papirus-icon-theme papirus-folders papirus-folders-nordic enpass-bin solanum gnome-calendar ticktick flipclock gnome-browser-connector
+yay -S resources bpytop tilix nord-tilix papirus-icon-theme papirus-folders papirus-folders-nordic solanum gnome-calendar flipclock gnome-browser-connector
 ```
 
 #### Graph
@@ -131,7 +131,7 @@ yay -S gimp inkscape converseen xsane-gimp gimp-help-it gimp-nufraw gimp-plugin-
 #### Fonts
 
 ```shell
-yay -S adobe-source-serif-fonts adobe-source-sans-fonts otf-bodoni ttf-ms-win11-auto noto-fonts-lite && sudo fc-cache
+yay -S ttf-ms-win11-auto noto-fonts-lite && sudo fc-cache
 ```
 
 ##### Noto Killer
@@ -146,7 +146,7 @@ yay -S noto-fonts-lite
 #### Nautilus tools
 
 ```shell
-yay -S  nautilus-checksums-git nautilus-admin-gtk4 nautilus-mediainfo nautilus-open-any-terminal python-nautilus nautilus-image-converter
+yay -S  nautilus-checksums-git nautilus-admin-gtk4 nautilus-open-any-terminal nautilus-image-converter
 
 ```
 
@@ -165,7 +165,7 @@ ant run
 #### Rainy Day
 
 ```shell
-yay -S leafpad cozy-audiobooks calibre mcomix radiotray-ng gfeeds-git
+yay -S foliate cozy-audiobooks calibre mcomix radiotray-ng gfeeds-git
 ```
 
 #### Gestione Bluetooth su Endeavour
@@ -174,6 +174,18 @@ yay -S leafpad cozy-audiobooks calibre mcomix radiotray-ng gfeeds-git
 sudo systemctl start bluetooth # to start it for the session will stay disabled after reboot.
 
 sudo systemctl enable bluetooth # to enable per default, will run after every boot.
+```
+
+#### Stop Gnome Questua
+
+```shell
+gsettings set org.gnome.settings-daemon.plugins.housekeeping donation-reminder-enabled 'false'
+```
+
+#### Solo su MSI
+
+```shell
+yay -S mcontrolcenter-bin msi-ec-git
 ```
 
 ---

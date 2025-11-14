@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7fd9aa88929166dc",
+        "id": "aff25765c5a65444",
         "type": "tabs",
         "children": [
           {
-            "id": "868c3d11b0293909",
+            "id": "f36d0b135a8bbb16",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MKDocs & Co/Material-MkDocs-in-Arch-Linux.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Material-MkDocs-in-Arch-Linux"
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -45,14 +40,15 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Esplora risorse"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 227.5,
+    "collapsed": true
   },
   "right": {
     "id": "02651ed25eba39d4",
@@ -82,8 +78,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
             }
           },
           {
@@ -109,27 +105,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "bases:Create new base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "868c3d11b0293909",
+  "active": "f36d0b135a8bbb16",
   "lastOpenFiles": [
+    "Linux/Arch Survival Kit.md",
+    "README.md",
+    "Data/Libre_Bodoni,Source_Code_Pro,Source_Sans_3,Source_Serif_4.zip",
+    "Data/AbbiFeed.opml",
+    "Data/feeder-export-2025-11-08-79110.opml",
+    "Senza nome.md",
+    "MKDocs & Co/Material-MkDocs-in-Arch-Linux.md",
     "Media/Eliminare il maledetto ms-gamingoverlay popup.md",
     "Varia/Root Nothing Phone 2a+ (Pacman Pro).md",
     "Varia/BrowserSync-Server-4-P5.md",
     "Data/ObsidianPlugin.md",
     "Varia/MTK_Driver_Auto_Installer_SP_Drivers_20160804.7z",
     "Data/QUAD9.md",
-    "Senza nome.md",
     "Linux/Tilix-MakeUp.md",
-    "README.md",
     "MKDocs & Co/Material-MkDocs-in-Windows.md",
-    "MKDocs & Co/Material-MkDocs-in-Arch-Linux.md",
     "Media/FFmpeg-Cookbook.md",
     "MKDocs & Co/Video-In-MkDocs.md",
-    "Linux/Arch Survival Kit.md",
     "Tools/Post Template.md",
     "Tools/Senza nome.md",
     "Obsidian.md",
@@ -142,15 +142,11 @@
     "Varia/Generare l'elenco delle estensioni installate in VSCode.md",
     "Tools/HK Memo.md",
     "Media/YT-DLP.md",
-    "Python/Installazione di diverse versioni di Python in Windows e gestione dei venv.md",
     "Data/RadioTray.json",
     "Data/GFeeds.opml",
     "Data",
     "ChatGPT",
     "Python",
-    "Noise",
-    "Nuova cartella",
-    "MKDocs & Co",
-    "Media"
+    "Noise"
   ]
 }
