@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Gestione G-Drive.md",
-                "mode": "source",
+                "file": "Prompt/Health Analysis.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Gestione G-Drive"
+              "title": "Health Analysis"
             }
           }
         ]
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5,
-    "collapsed": true
+    "width": 227.5
   },
   "right": {
     "id": "02651ed25eba39d4",
@@ -117,8 +116,10 @@
   },
   "active": "35ac4c1e937701da",
   "lastOpenFiles": [
-    "README.md",
     "Linux/Gestione G-Drive.md",
+    "Prompt/Health Analysis.md",
+    "Prompt",
+    "README.md",
     "SalaMacchine/sudosandwich.jpg",
     "sudosandwich.jpg.crdownload",
     "MKDocs & Co/Video-In-MkDocs.md",
@@ -150,9 +151,7 @@
     "Linux/Sopravvivere a Sublime Merge, Git e GitHub.md",
     "Varia/WP-Local FTP-Trick.md",
     "Varia/Generare l'elenco delle estensioni installate in VSCode.md",
-    "Media/YT-DLP.md",
     "Data/Muzak/RadioTray.json",
-    "Data/GFeeds.opml",
-    "Data"
+    "Data/GFeeds.opml"
   ]
 }
