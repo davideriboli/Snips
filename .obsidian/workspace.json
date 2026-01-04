@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "aff25765c5a65444",
+        "id": "9321112fba226e71",
         "type": "tabs",
         "children": [
           {
-            "id": "35ac4c1e937701da",
+            "id": "0a2db36dea4a89ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt/Health Analysis.md",
+                "file": "Chromebook/Chrome Flags x cables.gl et alia.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Health Analysis"
+              "title": "Chrome Flags x cables.gl et alia"
             }
           }
         ]
@@ -114,9 +114,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "35ac4c1e937701da",
+  "active": "0a2db36dea4a89ae",
   "lastOpenFiles": [
+    "test.md",
+    "test.pdf",
+    "Linux/Pandoc e Latex.md",
+    "Linux/Pandoc e Latex.pdf",
+    "SalaMacchine/ObsidianPlugin.md",
+    "Linux/Chown e chmod htdocs in Xampp.md",
     "Linux/Gestione G-Drive.md",
+    "Test.pdf",
+    "Test.md",
+    "Linux/Arch Survival Kit.md",
     "Prompt/Health Analysis.md",
     "Prompt",
     "README.md",
@@ -128,30 +137,20 @@
     "Data/Keys.md",
     "SalaMacchine/HK Memo.md",
     "SalaMacchine/Tmplt",
-    "SalaMacchine/ObsidianPlugin.md",
     "Data/Leggimi.md",
     "Data/Muzak",
-    "Linux/Arch Survival Kit.md",
     "Data/Libre_Bodoni,Source_Code_Pro,Source_Sans_3,Source_Serif_4.zip",
     "Data/AbbiFeed.opml",
     "Data/feeder-export-2025-11-08-79110.opml",
     "Media/Eliminare il maledetto ms-gamingoverlay popup.md",
     "Varia/Root Nothing Phone 2a+ (Pacman Pro).md",
     "Varia/BrowserSync-Server-4-P5.md",
-    "Varia/MTK_Driver_Auto_Installer_SP_Drivers_20160804.7z",
     "Data/QUAD9.md",
     "Linux/Tilix-MakeUp.md",
     "Media/FFmpeg-Cookbook.md",
     "SalaMacchine/Tmplt/Post Template.md",
     "Tools/Senza nome.md",
     "Obsidian.md",
-    "Linux/Chown e chmod htdocs in Xampp.md",
-    "MKDocs & Co/Costruire un blog con Material for MKDocs, Obsidian, Github.md",
-    "Media/Webp Conversion.md",
-    "Linux/Sopravvivere a Sublime Merge, Git e GitHub.md",
-    "Varia/WP-Local FTP-Trick.md",
-    "Varia/Generare l'elenco delle estensioni installate in VSCode.md",
-    "Data/Muzak/RadioTray.json",
-    "Data/GFeeds.opml"
+    "MKDocs & Co/Costruire un blog con Material for MKDocs, Obsidian, Github.md"
   ]
 }
