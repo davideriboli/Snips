@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chromebook/Chrome Flags x cables.gl et alia.md",
+                "file": "Linux/Arch Survival Kit.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Chrome Flags x cables.gl et alia"
+              "title": "Arch Survival Kit"
             }
           }
         ]
@@ -116,6 +116,8 @@
   },
   "active": "0a2db36dea4a89ae",
   "lastOpenFiles": [
+    "README.md",
+    "Chromebook/Chrome Flags x cables.gl et alia.md",
     "test.md",
     "test.pdf",
     "Linux/Pandoc e Latex.md",
@@ -128,7 +130,6 @@
     "Linux/Arch Survival Kit.md",
     "Prompt/Health Analysis.md",
     "Prompt",
-    "README.md",
     "SalaMacchine/sudosandwich.jpg",
     "sudosandwich.jpg.crdownload",
     "MKDocs & Co/Video-In-MkDocs.md",
