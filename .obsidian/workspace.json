@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Tilix-MakeUp.md",
+                "file": "Linux/ComfyUI Install.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tilix-MakeUp"
+              "title": "ComfyUI Install"
             }
           }
         ]
@@ -117,7 +117,10 @@
   },
   "active": "0a2db36dea4a89ae",
   "lastOpenFiles": [
+    "Prompt/Health Analysis.md",
+    "Linux/ComfyUI Install.md",
     "Linux/Arch Survival Kit.md",
+    "Linux/Tilix-MakeUp.md",
     "README.md",
     "Chromebook/Chrome Flags x cables.gl et alia.md",
     "test.md",
@@ -129,7 +132,6 @@
     "Linux/Gestione G-Drive.md",
     "Test.pdf",
     "Test.md",
-    "Prompt/Health Analysis.md",
     "Prompt",
     "SalaMacchine/sudosandwich.jpg",
     "sudosandwich.jpg.crdownload",
@@ -148,11 +150,9 @@
     "Varia/Root Nothing Phone 2a+ (Pacman Pro).md",
     "Varia/BrowserSync-Server-4-P5.md",
     "Data/QUAD9.md",
-    "Linux/Tilix-MakeUp.md",
     "Media/FFmpeg-Cookbook.md",
     "SalaMacchine/Tmplt/Post Template.md",
     "Tools/Senza nome.md",
-    "Obsidian.md",
-    "MKDocs & Co/Costruire un blog con Material for MKDocs, Obsidian, Github.md"
+    "Obsidian.md"
   ]
 }

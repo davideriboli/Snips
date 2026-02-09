@@ -1,0 +1,14 @@
+rclone mount gdrive: ~/G-Drive \
+    --vfs-cache-mode full \
+    --vfs-cache-max-size 100G \
+    --vfs-cache-max-age 48h \
+    --vfs-read-ahead 1G \
+    --buffer-size 512M \
+    --dir-cache-time 1000h \
+    --poll-interval 15s \
+    --drive-pacer-min-sleep 10ms \
+    --attr-timeout 1000h \
+    --vfs-read-chunk-size 64M \
+    --vfs-read-chunk-size-limit 2G \
+    --transfers 8 \
+    --daemon
