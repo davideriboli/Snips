@@ -6,5 +6,6 @@
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
   "showInlineTitle": true,
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "openBehavior": "file:README"
 }
