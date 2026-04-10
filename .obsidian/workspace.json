@@ -116,6 +116,9 @@
   },
   "active": "0a2db36dea4a89ae",
   "lastOpenFiles": [
+    "Linux/Trick/Compressione PDF.md",
+    "Linux/Trick",
+    "Linux/Trick.md",
     "README.md",
     "Linux/Reaper on Linux.md",
     "Linux/ComfyUI Install.md",
@@ -128,8 +131,8 @@
     "Linux/Pandoc e Latex.md",
     "Linux/Pandoc e Latex.pdf",
     "SalaMacchine/ObsidianPlugin.md",
-    "Linux/Chown e chmod htdocs in Xampp.md",
-    "Linux/Gestione G-Drive.md",
+    "Linux/Trick/Chown e chmod htdocs in Xampp.md",
+    "Linux/Trick/Gestione G-Drive.md",
     "Test.pdf",
     "Test.md",
     "Prompt",
@@ -145,13 +148,9 @@
     "Data/Muzak",
     "Data/Libre_Bodoni,Source_Code_Pro,Source_Sans_3,Source_Serif_4.zip",
     "Data/AbbiFeed.opml",
-    "Data/feeder-export-2025-11-08-79110.opml",
     "Media/Eliminare il maledetto ms-gamingoverlay popup.md",
     "Varia/Root Nothing Phone 2a+ (Pacman Pro).md",
     "Varia/BrowserSync-Server-4-P5.md",
-    "Data/QUAD9.md",
-    "Media/FFmpeg-Cookbook.md",
-    "SalaMacchine/Tmplt/Post Template.md",
-    "Tools/Senza nome.md"
+    "Data/QUAD9.md"
   ]
 }
