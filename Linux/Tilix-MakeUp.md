@@ -114,7 +114,7 @@ update-all() {
     echo ":: [3/3] Cleaning house..."
     yay -Yc --noconfirm
 
-    echo "✅ Sistema Vector GP68 HX aggiornato e pronto."
+    echo "✅ Sistema aggiornato e pronto."
 }
 
 # --- Clean-All: System Deep Clean ---
@@ -151,6 +151,58 @@ clean-all() {
 echo ""
 /usr/bin/fortune oblique-strategies
 echo ""
+
+fpath+=~/.zfunc; autoload -Uz compinit; compinit
+
+zstyle ':completion:*' menu select
+
+# Created by `pipx` on 2026-02-10 16:28:50
+export PATH="$PATH:/home/stormy/.local/bin"
+
+# =============================================================================
+# 7. GRAFANA ON DEMAND MODULE
+# =============================================================================
+
+export GRAFANA_PATH="/run/media/stormy/Data/Code/Grafana"
+
+grafana-up() {
+    echo "[+] Awakening Docker Engine..."
+    sudo systemctl start docker
+    
+    # Check se il disco è montato
+    if [ ! -d "$GRAFANA_PATH" ]; then
+        echo "[!] ERRORE: Il path $GRAFANA_PATH non esiste. Disco 'Data' montato?"
+        return 1
+    fi
+
+    cd "$GRAFANA_PATH"
+    echo "[+] Launching Grafana Stack..."
+    docker compose up -d
+    echo "[+] Mission successful. Grafana: http://localhost:3000 (admin/admin)"
+}
+
+grafana-down() {
+    echo "[-] Tearing down containers..."
+    if [ -d "$GRAFANA_PATH" ]; then
+        cd "$GRAFANA_PATH" && docker compose down
+    else
+        echo "[!] Avviso: Cartella del progetto non trovata, salto lo stop dei container."
+    fi
+    
+    echo "[-] Stopping Docker and cleaning sockets..."
+    sudo systemctl stop docker.service docker.socket
+    echo "[!] System is now clean. Resources freed."
+}
+
+# Comando rapido per la sincronizzazione (accetta --days come argomento)
+grafana-sync() {
+    if [ -d "$GRAFANA_PATH" ]; then
+        cd "$GRAFANA_PATH"
+        ./VEnv/bin/python scripts/sync_garmin.py "$@"
+    else
+        echo "[!] ERRORE: Path $GRAFANA_PATH non trovato."
+    fi
+}
 ```
 
 ```shell
