@@ -65,4 +65,27 @@ ffmpeg -i input.mp4 -c:v libtheora -q:v 10 -c:a libvorbis output.ogv
 
 ---
 
-*Ultima modifica: dom 01/12/2024*
+### Taglio ad hoc
+
+
+```shell
+ffmpeg -i input.webm -ss 00:00:00 -t 00:03:30 -c:v libx264 -crf 23 -c:a aac output.mp4
+```
+
+#### Breakdown del Payload:
+
+- `-i input.webm`: Specifica il file sorgente.
+    
+- `-ss 00:00:00`: Punto di inizio (Start Seek). Metterlo _prima_ dell'input è più veloce, ma metterlo _dopo_ (come sopra) è più preciso per il taglio al frame esatto.
+    
+- `-t 00:03:30`: Durata del segmento (non il timestamp di fine). Se vuoi indicare il timestamp di fine esatto, usa `-to 00:03:30` invece di `-t`.
+    
+- `-c:v libx264`: Video codec H.264.
+    
+- `-crf 23`: _Constant Rate Factor_. Range 0–51. 23 è il default, 18 è quasi visual-lossless. Più basso è il numero, più alta è la qualità (e il peso del file).
+    
+- `-c:a aac`: Audio codec standard per container MP4.
+
+---
+
+*Ultima modifica: mar 05/05/2026*

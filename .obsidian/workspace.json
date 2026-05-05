@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Reaper on Linux.md",
-                "mode": "source",
+                "file": "AI/Spidering veloce per NotebookLM.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Reaper on Linux"
+              "title": "Spidering veloce per NotebookLM"
             }
           }
         ]
@@ -116,13 +116,22 @@
   },
   "active": "0a2db36dea4a89ae",
   "lastOpenFiles": [
+    "README.md",
+    "AI/Spidering veloce per NotebookLM.md",
+    "AI",
+    "sudosandwich.jpg",
+    "SalaMacchine/ObsidianPlugin.md",
+    "SalaMacchine/HK Memo.md",
+    "Linux/YT-DLP.md",
+    "Prompt/Health Analysis.md",
+    "Linux/Trick/Webp Conversion.md",
+    "Linux/Trick/FFmpeg-Cookbook.md",
+    "Linux/Kopia + RClone.md",
     "Linux/Trick/Compressione PDF.md",
     "Linux/Trick",
     "Linux/Trick.md",
-    "README.md",
     "Linux/Reaper on Linux.md",
     "Linux/ComfyUI Install.md",
-    "Prompt/Health Analysis.md",
     "Linux/Arch Survival Kit.md",
     "Linux/Tilix-MakeUp.md",
     "Chromebook/Chrome Flags x cables.gl et alia.md",
@@ -130,27 +139,19 @@
     "test.pdf",
     "Linux/Pandoc e Latex.md",
     "Linux/Pandoc e Latex.pdf",
-    "SalaMacchine/ObsidianPlugin.md",
     "Linux/Trick/Chown e chmod htdocs in Xampp.md",
     "Linux/Trick/Gestione G-Drive.md",
     "Test.pdf",
     "Test.md",
     "Prompt",
-    "SalaMacchine/sudosandwich.jpg",
     "sudosandwich.jpg.crdownload",
     "MKDocs & Co/Video-In-MkDocs.md",
     "MKDocs & Co/Material-MkDocs-in-Arch-Linux.md",
     "MKDocs & Co/Material-MkDocs-in-Windows.md",
     "Data/Keys.md",
-    "SalaMacchine/HK Memo.md",
     "SalaMacchine/Tmplt",
     "Data/Leggimi.md",
     "Data/Muzak",
-    "Data/Libre_Bodoni,Source_Code_Pro,Source_Sans_3,Source_Serif_4.zip",
-    "Data/AbbiFeed.opml",
-    "Media/Eliminare il maledetto ms-gamingoverlay popup.md",
-    "Varia/Root Nothing Phone 2a+ (Pacman Pro).md",
-    "Varia/BrowserSync-Server-4-P5.md",
-    "Data/QUAD9.md"
+    "Data/Libre_Bodoni,Source_Code_Pro,Source_Sans_3,Source_Serif_4.zip"
   ]
 }
