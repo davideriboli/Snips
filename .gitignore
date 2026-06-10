@@ -1,5 +1,8 @@
-# Obsidian trash
-.trash/*
+# Obsidian trash folder
+.trash/
 
-# RClone + RSync logs
-Linux/Script/.*
+# Ignore all hidden (invisible) files and folders in script sub-directories
+Linux/Script/RClone/.*
+Linux/Script/RClone/**/.*
+Linux/Script/Varia/.*
+Linux/Script/Varia/**/.*
