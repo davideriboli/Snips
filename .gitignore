@@ -1,3 +1,5 @@
+# Obsidian trash
+.trash/*
 
-# copilot data
-.obsidian/plugins/copilot/
+# RClone + RSync logs
+Linux/Script/.*
