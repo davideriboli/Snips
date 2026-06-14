@@ -90,17 +90,19 @@ echo
 EXIT_CODE=0
 rclone copy                         \
     --progress                      \
-    --buffer-size       64M         \
-    --transfers         4           \
-    --checkers          8           \
-    --multi-thread-streams  4       \
-    --multi-thread-cutoff   50M     \
+    --buffer-size       128M        \
+    --transfers         8           \
+    --checkers          16          \
+    --multi-thread-streams  8       \
+    --multi-thread-cutoff   10M     \
     --low-level-retries 20          \
     --retries           10          \
     --retries-sleep     30s         \
     --stats             15s         \
     --timeout           10m         \
-    --tpslimit          8           \
+    --tpslimit          20          \
+    --tpslimit-burst    30          \
+    --local-encoding    "LtGt,DoubleQuote,Colon,Question,Asterisk,Pipe,BackSlash,Ctl,RightSpace,RightPeriod,InvalidUtf8,Dot" \
     --log-file          "$RAW_LOG"  \
     --log-level         ERROR       \
     "$REMOTE_SRC" "$LOCAL_DEST"     \
