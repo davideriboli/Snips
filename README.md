@@ -6,4 +6,4 @@ Ha la forma di un vault [Obsidian](https://obsidian.md/): potete consultare i fi
 
 Shortcuts di questo vault: [[99-SalaMacchine/HK Memo]]
 
-![[sudosandwich.jpg]]
+![][sudosandwich.jpg]]
