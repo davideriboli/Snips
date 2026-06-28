@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Kopia + RClone.md",
+                "file": "02-Chromebook/Chrome Flags x cables.gl et alia.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Kopia + RClone"
+              "title": "Chrome Flags x cables.gl et alia"
             }
           }
         ]
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 457.5
   },
   "right": {
     "id": "02651ed25eba39d4",
@@ -116,6 +116,15 @@
   },
   "active": "0a2db36dea4a89ae",
   "lastOpenFiles": [
+    "03-Linux/YT-DLP.md",
+    "03-Linux/Tilix-MakeUp.md",
+    "03-Linux/Reaper on Linux.md",
+    "03-Linux/Kopia + RClone.md",
+    "03-Linux/ComfyUI Install.md",
+    "03-Linux/Arch Survival Kit.md",
+    "02-Chromebook/Chrome Flags x cables.gl et alia.md",
+    "01-AI/Spidering veloce per NotebookLM.md",
+    "99-SalaMacchine/HK Memo.md",
     "README.md",
     "AI/Spidering veloce per NotebookLM.md",
     "AI",
@@ -137,20 +146,11 @@
     "Chromebook/Chrome Flags x cables.gl et alia.md",
     "test.md",
     "test.pdf",
-    "Linux/Pandoc e Latex.md",
     "Linux/Pandoc e Latex.pdf",
-    "Linux/Trick/Chown e chmod htdocs in Xampp.md",
-    "Linux/Trick/Gestione G-Drive.md",
     "Test.pdf",
-    "Test.md",
     "Prompt",
     "sudosandwich.jpg.crdownload",
-    "MKDocs & Co/Video-In-MkDocs.md",
-    "MKDocs & Co/Material-MkDocs-in-Arch-Linux.md",
-    "MKDocs & Co/Material-MkDocs-in-Windows.md",
-    "Data/Keys.md",
     "SalaMacchine/Tmplt",
-    "Data/Leggimi.md",
     "Data/Muzak",
     "Data/Libre_Bodoni,Source_Code_Pro,Source_Sans_3,Source_Serif_4.zip"
   ]
