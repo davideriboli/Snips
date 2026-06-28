@@ -7,3 +7,7 @@ Ha la forma di un vault [Obsidian](https://obsidian.md/): potete consultare i fi
 Shortcuts di questo vault: [HK Memo](99-SalaMacchine/HK%20Memo.md)
 
 ![sudosandwich](sudosandwich.jpg)
+
+---
+
+*Revisione e manutenzione del vault con l'aiuto di [Claude](https://claude.ai) (Anthropic).*
