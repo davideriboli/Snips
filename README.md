@@ -4,6 +4,6 @@ Questo repository raccoglie i codici, le procedure e gli sporchi trucchi che non
 
 Ha la forma di un vault [Obsidian](https://obsidian.md/): potete consultare i file direttamente qui oppure aprire l'archivio con Obsidian per la consultazione *off-line*. Se la vignetta qui sotto per voi non ha senso, siete certamente finiti nel posto sbagliato.
 
-Shortcuts di questo vault: [[99-SalaMacchine/HK Memo]]
+Shortcuts di questo vault: [HK Memo](99-SalaMacchine/HK%20Memo.md)
 
-![](sudosandwich.jpg)
+![sudosandwich](sudosandwich.jpg)

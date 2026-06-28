@@ -1,6 +1,13 @@
 # Obsidian trash folder
 .trash/
 
+# Obsidian: plugin binaries (reinstallabili dai link in 99-SalaMacchine/ObsidianPlugin.md)
+.obsidian/plugins/
+# Obsidian: temi (reinstallabili)
+.obsidian/themes/
+# Obsidian: stato locale della workspace (cambia ad ogni sessione)
+.obsidian/workspace.json
+
 # Ignore all hidden (invisible) files and folders in script sub-directories
 Linux/Script/RClone/.*
 Linux/Script/RClone/**/.*

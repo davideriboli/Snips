@@ -6,7 +6,7 @@ aggiornato: 2024-12-14
 
 ## Intro
 
-Più o meno tutto come in Linux... [vedi [[Material-MkDocs-in-Arch-Linux]]].
+Più o meno tutto come in Linux... [vedi Material-MkDocs-in-Arch-Linux](Material-MkDocs-in-Arch-Linux.md).
 
 ##  Ricetta
 
