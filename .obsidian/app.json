@@ -7,5 +7,6 @@
   "showUnsupportedFiles": true,
   "showInlineTitle": true,
   "propertiesInDocument": "visible",
-  "openBehavior": "file:README"
+  "openBehavior": "file:README",
+  "useMarkdownLinks": true
 }
