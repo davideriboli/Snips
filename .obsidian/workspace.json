@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07-Varia/Audiolibri in Kobo.md",
-                "mode": "source",
+                "file": "03-Linux/Script/RClone/rclone-gdrive-endeavouros.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Audiolibri in Kobo"
+              "title": "rclone-gdrive-endeavouros"
             }
           }
         ]
@@ -42,10 +42,12 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Esplora risorse"
+              "title": "Esplora file"
             }
           }
         ]
@@ -116,6 +118,7 @@
   },
   "active": "0a2db36dea4a89ae",
   "lastOpenFiles": [
+    "03-Linux/Script/RClone/rclone-creazione-remote-gdrive.md",
     "README.md",
     "07-Varia/Audiolibri in Kobo.md",
     "03-Linux/YT-DLP.md",
@@ -144,7 +147,6 @@
     "Linux/ComfyUI Install.md",
     "Linux/Arch Survival Kit.md",
     "Linux/Tilix-MakeUp.md",
-    "Chromebook/Chrome Flags x cables.gl et alia.md",
     "test.pdf",
     "Linux/Pandoc e Latex.pdf",
     "Test.pdf",
