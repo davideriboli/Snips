@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Linux/Script/RClone/rclone-gdrive-endeavouros.md",
+                "file": "03-Linux/Endeavour2Ubuntu.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "rclone-gdrive-endeavouros"
+              "title": "Endeavour2Ubuntu"
             }
           }
         ]
@@ -118,8 +118,8 @@
   },
   "active": "0a2db36dea4a89ae",
   "lastOpenFiles": [
-    "03-Linux/Script/RClone/rclone-creazione-remote-gdrive.md",
     "README.md",
+    "03-Linux/Script/RClone/rclone-creazione-remote-gdrive.md",
     "07-Varia/Audiolibri in Kobo.md",
     "03-Linux/YT-DLP.md",
     "03-Linux/Tilix-MakeUp.md",
