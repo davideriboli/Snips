@@ -8,5 +8,6 @@
   "showInlineTitle": true,
   "propertiesInDocument": "visible",
   "openBehavior": "file:README",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "promptDelete": false
 }

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Linux/Endeavour2Ubuntu.md",
+                "file": "03-Linux/Scrcpy.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Endeavour2Ubuntu"
+              "title": "Scrcpy"
             }
           }
         ]
@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 457.5
+    "width": 302.9609375
   },
   "right": {
     "id": "02651ed25eba39d4",
@@ -119,6 +119,9 @@
   "active": "0a2db36dea4a89ae",
   "lastOpenFiles": [
     "README.md",
+    "03-Linux/Scrcpy.md",
+    "03-Linux/Zed Ollama Setup.md",
+    "03-Linux/WayDroid.md",
     "03-Linux/Script/RClone/rclone-creazione-remote-gdrive.md",
     "07-Varia/Audiolibri in Kobo.md",
     "03-Linux/YT-DLP.md",
@@ -144,9 +147,6 @@
     "Linux/Trick",
     "Linux/Trick.md",
     "Linux/Reaper on Linux.md",
-    "Linux/ComfyUI Install.md",
-    "Linux/Arch Survival Kit.md",
-    "Linux/Tilix-MakeUp.md",
     "test.pdf",
     "Linux/Pandoc e Latex.pdf",
     "Test.pdf",
