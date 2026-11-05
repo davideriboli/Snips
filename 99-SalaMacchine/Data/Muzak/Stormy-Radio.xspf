@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="utf-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:aimp="http://www.aimp.ru/playlist/ns/0/" version="1">
+	<title>Stormy-Radio</title>
+	<identifier>{0AB64526-3E5B-49BF-B50C-123D5F9B01EF}</identifier>
+	<location>file:///home/stormy/Stormy-Radio.xspf</location>
+	<extension application="http://www.aimp.ru/playlist/summary/0">
+		<aimp:prop name="ID">{0AB64526-3E5B-49BF-B50C-123D5F9B01EF}</aimp:prop>
+		<aimp:prop name="Name">Stormy-Radio</aimp:prop>
+		<aimp:prop name="NameIsAutoSet">0</aimp:prop>
+		<aimp:prop name="ContentFiles">80</aimp:prop>
+		<aimp:prop name="PlaybackCursor">0</aimp:prop>
+		<aimp:prop name="PlaybackCursorAutoBookmark">0</aimp:prop>
+		<aimp:prop name="SortingTemplate">%IF(%Artist,%Artist - %Title,%Title)</aimp:prop>
+		<aimp:prop name="Shuffled">0</aimp:prop>
+		<aimp:prop name="UserReordered">0</aimp:prop>
+	</extension>
+	<extension application="http://www.aimp.ru/playlist/settings/0">
+		<aimp:prop name="Flags">2047</aimp:prop>
+		<aimp:prop name="FormatMainLine">%IF(%Artist,%Artist - %Title,%Title)</aimp:prop>
+		<aimp:prop name="FormatSecondLine">%FileFormat :: %SampleRate, %BitRate, %FileSize</aimp:prop>
+		<aimp:prop name="GroupFormatLine">%FileDir</aimp:prop>
+	</extension>
+	<trackList>
+		<track>
+			<location>https://mpc1.mediacp.eu:8356/stream</location>
+			<title>100% Acid Jazz</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>0</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Acid Jazz &amp; Relax</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>http://listen.181fm.com/181-acidjazz_128k.mp3</location>
+			<title>181.FM Acid Jazz</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>1</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Acid Jazz &amp; Relax</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>http://stream.laut.fm/acidjazz</location>
+			<title>Acid Jazz Radio (Laut.fm)</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>2</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Acid Jazz &amp; Relax</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://stream.brokenbeats.net/tune</location>
+			<title>Brokenbeats Nu-Jazz &amp; Downtempo (320k)</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>3</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Acid Jazz &amp; Relax</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://stream.lounge.fm/loungefm128.mp3</location>
+			<title>LoungeFM Austria</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>4</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Acid Jazz &amp; Relax</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>http://tuner.country108.com:80</location>
+			<title>Country 108</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>5</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Country</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://listen.181fm.com/181-highway_128k.mp3</location>
+			<title>Highway 181</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>6</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Country</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>http://ice24.securenetsystems.net/WAMU2</location>
+			<title>WAMU Bluegrass Country</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>7</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Country</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://direct.croonerradio.fr/croonerradio-midfi.mp3</location>
+			<title>Crooner Radio</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>8</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Crooner</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>http://croonerradio_classicgold.ice.infomaniak.ch/croonerradio-classicgold-midfi.mp3</location>
+			<title>Crooner Radio - Classic Gold</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>9</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Crooner</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>http://croonerradio_frenchy.ice.infomaniak.ch/croonerradio-frenchy-midfi.mp3</location>
+			<title>Crooner Radio - Frenchy</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>10</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Crooner</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>http://croonerradio_legends.ice.infomaniak.ch/croonerradio-legends-midfi.mp3</location>
+			<title>Crooner Radio - Legends</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>11</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Crooner</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>http://croonerradio_lounge.ice.infomaniak.ch/croonerradio-lounge-midfi.mp3</location>
+			<title>Crooner Radio - Lounge</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>12</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Crooner</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>http://croonerradio_inprivate.ice.infomaniak.ch/croonerradio-inprivate-midfi.mp3</location>
+			<title>Crooner Radio - Premium</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>13</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Crooner</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>http://croonerradio_swing.ice.infomaniak.ch/croonerradio-swing-midfi.mp3</location>
+			<title>Crooner Radio - Swing</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>14</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Crooner</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://icecast.walmradio.com:8443/jazz</location>
+			<title>Adroit Jazz Underground (320k)</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>15</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Jazz</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://icecast.radiofrance.fr/fipjazz-midfi.mp3</location>
+			<title>FIP Jazz (Radio France)</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>16</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Jazz</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>http://radio.canstream.co.uk:8075/live.mp3</location>
+			<title>Jazz London Radio</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>17</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Jazz</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>http://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3</location>
+			<title>Jazz Radio (France)</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>18</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Jazz</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>http://radio.linn.co.uk:8000/autodj</location>
+			<title>Linn Jazz (320k Audiophile)</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>19</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Jazz</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>http://stream.srg-ssr.ch/m/rsj/mp3_128</location>
+			<title>Radio Swiss Jazz</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>20</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Jazz</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>http://smoothjazz.cdnstream1.com/2585_64.aac</location>
+			<title>SmoothJazz.com Global</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>21</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Jazz</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3</location>
+			<title>TSF Jazz (Paris)</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>22</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Jazz</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://wwoz-sc.streamguys1.com/wwoz-hi.mp3</location>
+			<title>WWOZ 90.7 FM New Orleans Jazz</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>23</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Jazz</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>http://dronezone.radio.mynoise.net</location>
+			<title>MyNoise - Drone Zone</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>24</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>MyNoise</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>http://oceanwaves.radio.mynoise.net</location>
+			<title>MyNoise - Ocean Waves</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>25</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>MyNoise</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>http://purenature.radio.mynoise.net</location>
+			<title>MyNoise - Pure Nature</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>26</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>MyNoise</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>http://rainyday.radio.mynoise.net</location>
+			<title>MyNoise - Rainy Day</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>27</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>MyNoise</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>http://sirensongs.radio.mynoise.net</location>
+			<title>MyNoise - Siren Songs</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>28</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>MyNoise</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>http://spaceodyssey.radio.mynoise.net</location>
+			<title>MyNoise - Space Odyssey</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>29</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>MyNoise</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>http://zengarden.radio.mynoise.net</location>
+			<title>MyNoise - Zen Garden</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>30</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>MyNoise</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>http://radio.modules.pl:8500/;</location>
+			<title>ModFM (Amiga Tracker &amp; Chiptunes / Demoscene)</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>31</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Programmers &amp; Coding</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://stream.nightride.fm/nightride.mp3</location>
+			<title>Nightride FM (Synthwave / Cyberpunk)</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>32</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Programmers &amp; Coding</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://stream.nightride.fm/datawave.mp3</location>
+			<title>Nightride FM - Datawave (Coding Focus)</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>33</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Programmers &amp; Coding</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://radio.plaza.one/mp3</location>
+			<title>Nightwave Plaza (Vaporwave &amp; Coding Lo-Fi)</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>34</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Programmers &amp; Coding</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://listen.reyfm.de/lofi_320kbps.mp3</location>
+			<title>REYFM Lo-Fi (320k Beats to Code/Relax)</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>35</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Programmers &amp; Coding</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://icy.unitedradio.it/rmcweb017</location>
+			<title>RMC - Blue Moon</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>36</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>RMC</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://icy.unitedradio.it/rmcweb004</location>
+			<title>RMC - Cool</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>37</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>RMC</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://icy.unitedradio.it/rmcweb019</location>
+			<title>RMC - Jazz</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>38</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>RMC</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://icy.unitedradio.it/rmcweb012</location>
+			<title>RMC - Nights Story</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>39</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>RMC</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://stream.rcs.revma.com/4t617kep81uvv</location>
+			<title>RMC - Smooth Jazz</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>40</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>RMC</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://stream.rcs.revma.com/ksvn8tpp81uvv</location>
+			<title>RMC - Tiffany</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>41</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>RMC</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://stream.rcs.revma.com/nt1qhvnp81uvv</location>
+			<title>RMC - Unforgettable</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>42</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>RMC</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://icy.unitedradio.it/rmcweb020</location>
+			<title>RMC - VIP Lounge</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>43</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>RMC</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://stream.rcs.revma.com/x3n887pp81uvv</location>
+			<title>RMC - Via Montenapoleone</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>44</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>RMC</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://stream.rcs.revma.com/yuwet426r7uvv</location>
+			<title>RMC 2</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>45</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>RMC</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>http://icecast.unitedradio.it/RMC.mp3</location>
+			<title>Radio Monte Carlo (Main 105)</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>46</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>RMC</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://ice5.somafm.com/bootliquor-128-mp3</location>
+			<title>SomaFM - Boot Liquor</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>47</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>SOMA</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://ice5.somafm.com/bossa-128-mp3</location>
+			<title>SomaFM - Bossa Beyond</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>48</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>SOMA</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://ice5.somafm.com/covers-128-aac</location>
+			<title>SomaFM - Covers</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>49</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>SOMA</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://ice5.somafm.com/defcon-128-aac</location>
+			<title>SomaFM - DEF CON Radio</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>50</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>SOMA</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://ice5.somafm.com/folkfwd-128-aac</location>
+			<title>SomaFM - Folk Forward</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>51</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>SOMA</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>http://ice3.somafm.com/groovesalad-128-mp3</location>
+			<title>SomaFM - Groove Salad</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>52</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>SOMA</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://ice5.somafm.com/illstreet-128-mp3</location>
+			<title>SomaFM - Illinois Street Lounge</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>53</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>SOMA</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://ice5.somafm.com/seventies-128-mp3</location>
+			<title>SomaFM - Left Coast 70s</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>54</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>SOMA</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://ice5.somafm.com/missioncontrol-128-mp3</location>
+			<title>SomaFM - Mission Control</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>55</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>SOMA</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://ice5.somafm.com/scanner-128-mp3</location>
+			<title>SomaFM - Police Scanner</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>56</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>SOMA</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://ice5.somafm.com/sf1033-128-mp3</location>
+			<title>SomaFM - SF 10-33</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>57</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>SOMA</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://ice5.somafm.com/secretagent-128-mp3</location>
+			<title>SomaFM - Secret Agent</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>58</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>SOMA</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://ice5.somafm.com/7soul-128-mp3</location>
+			<title>SomaFM - Seven Inch Soul</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>59</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>SOMA</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://ice5.somafm.com/sonicuniverse-128-mp3</location>
+			<title>SomaFM - Sonic Universe</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>60</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>SOMA</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://ice5.somafm.com/insound-128-mp3</location>
+			<title>SomaFM - The In-Sound</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>61</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>SOMA</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://ice5.somafm.com/tikitime-128-mp3</location>
+			<title>SomaFM - Tiki Time</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>62</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>SOMA</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://listen.radioking.com/radio/10713/stream/224413</location>
+			<title>Gritty Rock Radio (Southern Grit &amp; Swamp Roots)</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>63</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Southern Gothic</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://r.bgp.rodeo/listen/outlaw/radio.mp3</location>
+			<title>Outlaw Country Radio (Dark Country &amp; Red Dirt)</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>64</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Southern Gothic</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>http://janus.cdnstream.com:5140/live</location>
+			<title>Radio Free Americana (Dark Roots &amp; Folk Noir)</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>65</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Southern Gothic</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://cast6.my-control-panel.com/proxy/swampradiomiami/stream</location>
+			<title>Swamp Radio (Bayou Roots &amp; Roots Noir)</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>66</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Southern Gothic</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://wncw-live-a.edge.audiocdn.com/6286_56k.aac</location>
+			<title>WNCW 88.7 FM (Appalachian &amp; Dark Mountain Roots)</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>67</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Southern Gothic</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>http://icestreaming.rai.it/1.mp3</location>
+			<title>RAI Radio 1</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>68</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Talk</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>http://icestreaming.rai.it/3.mp3</location>
+			<title>RAI Radio 3</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>69</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Talk</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>http://shoutcast.radio24.it:8000/stream</location>
+			<title>Radio 24 - Il Sole 24 Ore</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>70</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Talk</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>http://listen.181fm.com/181-xsmooth_128k.mp3</location>
+			<title>181.FM Christmas Smooth Jazz</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>71</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Xmas</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://listen.181fm.com/181-xswing_128k.mp3</location>
+			<title>181.FM Christmas Swing</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>72</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Xmas</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>http://croonerradio_christmas.ice.infomaniak.ch/croonerradio-christmas-midfi.mp3</location>
+			<title>Crooner Radio Christmas</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>73</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Xmas</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://stream.ella-radio.de/ella-christmas-jazz/mp3-192</location>
+			<title>Ella Radio - Christmas Jazz (192k)</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>74</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Xmas</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://pureplay.cdnstream1.com/6020_64.aac</location>
+			<title>GotRadio Christmas Jazz</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>75</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Xmas</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>http://jazz-wr07.ice.infomaniak.ch/jazz-wr07-128.mp3</location>
+			<title>Jazz Radio Christmas Jazz</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>76</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Xmas</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://ice5.somafm.com/christmas-128-aac</location>
+			<title>SomaFM - Christmas Lounge</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>77</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Xmas</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://ice5.somafm.com/deptstore-128-aac</location>
+			<title>SomaFM - Department Store Christmas</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>78</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Xmas</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+		<track>
+			<location>https://ice5.somafm.com/jollysoul-128-mp3</location>
+			<title>SomaFM - Jolly Ol&#x27; Soul</title>
+			<extension application="http://www.aimp.ru/playlist/track/0">
+				<aimp:queueIndex>79</aimp:queueIndex>
+			</extension>
+			<extension application="http://www.aimp.ru/playlist/group/0">
+				<aimp:title>Xmas</aimp:title>
+				<aimp:state>1</aimp:state>
+			</extension>
+		</track>
+	</trackList>
+</playlist>
